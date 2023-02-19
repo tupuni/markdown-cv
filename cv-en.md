@@ -1,29 +1,27 @@
 ---
-title: "Isaac Newtons's CV"
+title: "Curriculum vitae"
 layout: cv
 output: pdf_document
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Aymeric Hermann
+PhD
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="aymeric.hermann@cnrs.fr">aymeric.hermann@cnrs.fr</a>  
+ORCID: 	0000-0003-3577-0294
 
 
 ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Chargé de Recherche Classe Normale  
+Centre National de la Recherche Scientifique  
+UMR 8068 Temps MSH Mondes  F-92023 Nanterre, France.  
 
 
-### Research interests
+### Research focus
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Polynesian migrations in East Polynesia and Polynesian Outliers  
+Geochemical sourcing of stone materials  
+Evolution of social and economic organization in Polynesia  
+Anthropology of techniques and technical systems: lithic and shell industries  
 
 
 ## Education

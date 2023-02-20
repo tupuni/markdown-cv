@@ -19,16 +19,18 @@ header-includes: |
 
 
 ## Currently
-Chargé de Recherche (permanent researcher)  
+Chargé de Recherche (Permanent Researcher)  
 Centre National de la Recherche Scientifique  
 [UMR 8068 Temps, MSH Mondes, F-92023 Nanterre](https://umrtemps.cnrs.fr/membre/hermann-aymeric/).  
 
 Research associate to  
-Dept of Linguistic and Cultural Evolution, MPI-EVA,  
+Department of Linguistic and Cultural Evolution  
+Max-Planck-Institut für evolutionäre Anthropologie  
 Deutscher Platz 6, D-04103 Leipzig.  
 and  
-Centre International de Recherche Archéologique en Polynésie,  
-Université de la Polynésie française Campus d'Outumaoro, F-98702 Puna'auia.  
+Centre International de Recherche Archéologique en Polynésie  
+Université de la Polynésie française  
+Campus d'Outumaoro, F-98702 Puna'auia.  
 
 
 ## Research focus

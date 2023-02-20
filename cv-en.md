@@ -13,20 +13,35 @@ header-includes: |
   <a href=""><i class="fas fa-at"></i>[aymeric.hermann@cnrs.fr](mailto:aymeric.hermann@cnrs.fr)</a>  
   <a href="https://github.com/tupuni"><i class="fab fa-github"></i>[GitHub](https://github.com/tupuni)/[GitLab](https://gitlab.huma-num.fr/tupuni): tupuni</a>  
   <a href="https://orcid.org/0000-0003-3577-0294"><i class="ai ai-orcid"></i>ORCID: [0000-0003-3577-0294](https://orcid.org/0000-0003-3577-0294)</a>  
-  <a href="https://orcid.org/0000-0003-3577-0294"><i class="ai ai-HAL"></i>IdHAL: [aymeric-hermann](https://hal.science/search/index/?q=*&authIdPerson_i=740035)</a>
+  <a href="https://orcid.org/0000-0003-3577-0294"><i class="ai ai-HAL"></i>IdHAL: [aymeric-hermann](https://hal.science/search/index/?q=*&authIdPerson_i=740035)</a>  
+  <a href="https://twitter.com/aymerichermann"><i class="ai ai-Twitter"></i>Twitter: [aymerichermann](https://twitter.com/aymerichermann)</a>
 </div>
 
 
 ## Currently
 Chargé de Recherche (permanent researcher)  
 Centre National de la Recherche Scientifique  
-[UMR 8068 Temps MSH Mondes, F-92023 Nanterre, France](https://umrtemps.cnrs.fr/membre/hermann-aymeric/)
+[UMR 8068 Temps, MSH Mondes, F-92023 Nanterre](https://umrtemps.cnrs.fr/membre/hermann-aymeric/).  
+
+Research associate to  
+Dept of Linguistic and Cultural Evolution, MPI-EVA,  
+Deutscher Platz 6, D-04103 Leipzig.  
+and  
+Centre International de Recherche Archéologique en Polynésie,  
+Université de la Polynésie française Campus d'Outumaoro, F-98702 Puna'auia.  
 
 
 ## Research focus
+` ` 
 Polynesian migrations in East Polynesia and Polynesian Outliers  
-Geochemical sourcing of stone materials  
+
+` `
+Geochemical sourcing of stone materials (Founder of [Pofatu](https://pofatu.clld.org/))  
+
+` `
 Evolution of social and economic organization in Polynesia  
+
+` `
 Anthropology of techniques and technical systems: lithic and shell industries  
 
 

@@ -267,46 +267,47 @@ comm a ommettre
 
 ## Travaux de terrain
 `En tant que responsable scientifique`  
-* 2022,	*Teti'aroa, Society Islands, French Polynesia* (avec G. Molle, ANU), 08-10/22.  
-* 2019,	*Teti'aroa, Society Islands, French Polynesia* (avec G. Molle, ANU), 11/19.  
+* 2022,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 08-10/22.  
+* 2019,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 11/19.  
 * 2019, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 08-09/19.  
 * 2018, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 10/18.  
-* 2016, *Aoma valley, Toahotu, Taiarapu, Tahiti, French Polynesia* (with J-F. Butaud), 04-05/16.  
-* 2016, *Marae Pererau, Piha'e'ina, Mo'orea, Society Islands, French Polynesia*, 04/16.  
-* 2015, *Atiahara, Tupua'i, Austral Islands, French Polynesia*, 12/15.  
-* 2015, *Marae Pererau, Piha'e'ina, Mo’orea, Society Islands, French Polynesia*, 05/15.  
-* 2015, *Teti'aroa, Society Islands, French Polynesia* (avec G. Molle, ANU), 02/15.  
-* 2014,	*Marae Pererau, Piha'e'ina, Mo'orea, Society Islands, French Polynesia*, 04/14.  
-* 2012,	*Tanataetea, Tupua'i, Austral Islands, French Polynesia*, 02/12.  
-* 2011,	*Tanataetea, Tupua'i, Austral Islands, French Polynesia*, 08/11.  
-* 2010,	*Tupua'i, Austral Islands, French Polynesia*, 01-10/10.  
+* 2016, *Aoma valley, Toahotu, Taiarapu, Iles de la Société, Polynésie française* (with J-F. Butaud), 04-05/16.  
+* 2016, *Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/16.  
+* 2015, *Atiahara, Tupua'i, Iles Australes, Polynésie française*, 12/15.  
+* 2015, *Marae Pererau, Piha'e'ina, Mo’orea, Iles de la Société, Polynésie française*, 05/15.  
+* 2015, *Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 02/15.  
+* 2014,	*Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/14.  
+* 2012,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 02/12.  
+* 2011,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 08/11.  
+* 2010,	*Tupua'i, Iles Australes, Polynésie française*, 01-10/10.  
 
 `En tant que collaborateur`  
-* 2016, *Ava Ranga Uka A Toroke Hau, Rapa Nui (Easter Island), Chile* (avec A. Kuehlem, B. Vogt, Deutsches Archäologisches Institut), 03/16.  
-* 2013,	*Temoe, Gambier Islands, French Polynesia* (avec G. Molle, ANU, and P. Murail), 10/13.  
-* 2009,	*Hane, Ua Huka, Marquesas Islands, French Polynesia* (avec E. Conte, UPF, P. Murail, Bordeaux-1, G. Molle, UPF), 01/09.  
+* 2016, *Ava Ranga Uka A Toroke Hau, Rapa Nui (Ile de Pâques), Chili* (avec A. Kuehlem, B. Vogt, Deutsches Archäologisches Institut), 03/16.  
+* 2013,	*Temoe, Iles Gambier, Polynésie française* (avec G. Molle, ANU, and P. Murail), 10/13.  
+* 2009,	*Hane, Ua Huka, Iles Marquises, Polynésie française* (avec E. Conte, UPF, P. Murail, Bordeaux-1, G. Molle, UPF), 01/09.  
 
 `Projets associatifs`  
-* 2014-2016, *Fouilles archéologiques et restauration du marae Pererau (Piha'e'ina, Mo'orea, Archipel de la Société)*. En collaboration avec les associations culturelles Puna Reo et Te 'ihi papa no ta'ato'a, et la Direction de la Culture et du Patrimoine.  
-* 2011,	*Survey and restoration of marae Ogio (Ana'a, Tuamotu archipelago, French Polynesia)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.  
-* 2007,	*Survey and restoration of monumental ceremonial and domestic structures (Ua Pou, Marquesas islands, French Polynesia)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.  
+* 2014-2016, *Fouilles archéologiques et restauration du marae Pererau, Piha'e'in, Mo'orea (Archipel de la Société, Polynésie française)*. En collaboration avec les associations culturelles Puna Reo et Te 'ihi papa no ta'ato'a, et la Direction de la Culture et du Patrimoine.  
+* 2011,	*Fouilles archéologiques et restauration du marae Ogio, Ana’a (Archipel des Tuamotu, Polynésie française)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.  
+* 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.  
 
 
 ## Activités professionnelles
 `Recherche`  
-* 2017-2020, *Post-doctoral fellow, Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Jena (Allemagne). Department of Linguistic and Cultural Evolution* (1/9/17-31/8/20).  
-* 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française. Research project: HAERE I TAI - Ecology of marine exploitation in pre-european Tubuai (Iles Australes, Polynésie française)* (1/1/15 - 31/12/15).  
-* 2013, *Research assistant, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).  
+* 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20). 
+* 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).  
+* 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).  
+* 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).  
 * 2010-2012, *Doctorat, Université de la Polynésie française* (1/1/10 - 31/12/12).  
 
 `Enseignement`  
-* 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licences et Master), University of French Polynesia* (1/9/14 - 31/8/17).  
-* 2014-2017,	*Instructor for graduated students in excavations/restoration on Mo'orea island Cultural associations Te 'ihi papa no ta'ato'a and Puna reo Piha'e'ina*.  
-* 2013-2015, *Instructor, International Center for Research and Archaeology in Polynesia (CIRAP), University of French Polynesia*.  
+* 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licence et Master), Université de la Polynésie française* (1/9/14 - 31/8/17).  
+* 2014-2017,	*Encadrement et formation des étudiants à la fouille et restauration du marae Pererau (Mo'orea), Associations culturelles Te 'ihi papa no ta'ato'a et Puna reo Piha'e'ina*.  
+* 2013-2015, *Gestion du laboratoire du CIRAP et tutorat des étudiants en stage, Centre International pour la Recherche Archéologique en Polynésie (CIRAP), Université de la Polynésie française*.  
 
 `Other appointments`  
-* 2016, *Consultant in Archaeology and Ethno-history on the INTEGRE Project. Archaeological survey in the Aoma valley and documentation of oral traditions in the Toahotu disctrict* (1/4/16-10/7/16).  
-* 2014, *Archaeology consultant, French Polynesian Cultural Heritage Department, Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).  
+* 2016, *Consultant en Archéologie et Ethno-histoire: Prospections archéologiques et analyse des traditions orales du district de Toahotu. Projet INTEGRE (Communauté du Pacifique/Union Européen)* (1/4/16-10/7/16).  
+* 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).  
 
 \fancyfoot[LO,LE]{Last update: Feb 2023}
 

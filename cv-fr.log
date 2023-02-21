@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  20 FEB 2023 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  21 FEB 2023 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv-en.tex
-(./cv-en.tex
+**cv-fr.tex
+(./cv-fr.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-07> (/Users/hermann/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -319,8 +319,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box53
-) (./cv-en.aux)
-\openout1 = `cv-en.aux'.
+) (./cv-fr.aux)
+\openout1 = `cv-fr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
@@ -381,9 +381,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 72.
-(./cv-en.out) (./cv-en.out)
+(./cv-fr.out) (./cv-fr.out)
 \@outlinefile=\write3
-\openout3 = `cv-en.out'.
+\openout3 = `cv-fr.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 74.
 (/Users/hermann/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -421,38 +421,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 79.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 79.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 108.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 109.
 (/Users/hermann/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
-{/Users/hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
-Underfull \hbox (badness 1472) in paragraph at lines 531--570
-\T1/lmr/m/it/10 Sémi-naire Mas-ter Recherche Ethno-archéologie de l'Océanie, Uni-ver-sité Paris-1 Panthéon-Sorbonne\T1/lmr/m/n/10 ,
- []
-
-[6] [7]
+{/Users/hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7]
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 657.
+(fancyhdr)                Please consider using the `twoside' option on input line 712.
 
-[8] (./cv-en.aux)
-Package rerunfilecheck Info: File `cv-en.out' has not changed.
-(rerunfilecheck)             Checksum: C5942BCE2CFDC29D2381C0DA5B77B11E;2538.
+[8] (./cv-fr.aux)
+Package rerunfilecheck Info: File `cv-fr.out' has not changed.
+(rerunfilecheck)             Checksum: CD161DA3B96148863FCD68D9901C7F51;2006.
  ) 
 Here is how much of TeX's memory you used:
- 10806 strings out of 477989
- 167996 string characters out of 5838545
+ 10823 strings out of 477989
+ 167992 string characters out of 5838545
  1864346 words of memory out of 5000000
- 30728 multiletter control sequences out of 15000+600000
+ 30723 multiletter control sequences out of 15000+600000
  565179 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,76p,418b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,364b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on cv-en.pdf (8 pages, 231600 bytes).
+Output written on cv-fr.pdf (8 pages, 234347 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 269 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 

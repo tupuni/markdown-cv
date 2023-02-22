@@ -70,38 +70,38 @@ __DEUG-Licence__, Université de Nantes
 ### Articles
 `ACL`
 
-@. **Hermann A.**, Gutiérrez P., Chauvel C., Maury R., Liorzou C., Willie E., Phillip I., Forkel R., Rzymski C., Bedford S. (accepted). **Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers**. *Science Advances*, pp.
+@. **Hermann A.**, Gutiérrez P., Chauvel C., Maury R., Liorzou C., Willie E., Phillip I., Forkel R., Rzymski C., Bedford S. (accepted). **Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers**, *Science Advances*, pp.
 
-@. **Hermann A.**, Walworth M. 2020. **Approche interdisciplinaire des échanges interculturels et de l’intégration des communautés polynésiennes dans le centre du Vanuatu**. *Journal de la Société des Océanistes* 151, 243–265. https://doi.org/10.4000/jso.11963
+@. **Hermann A.**, Walworth M. 2020. **Approche interdisciplinaire des échanges interculturels et de l’intégration des communautés polynésiennes dans le centre du Vanuatu**, *Journal de la Société des Océanistes* 151, 243–265. https://doi.org/10.4000/jso.11963
 
-@. **Hermann A.**, Forkel R., McAlister A., Cruickshank A., Golitko M., Kneebone B., McCoy M.D., Reepmeyer C., Sheppard P.J., Sinton J.M., Weisler M.I. 2020. **Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials**. *Scientific Data* 7, 1–9. https://doi.org/10.1038/s41597-020-0485-8
+@. **Hermann A.**, Forkel R., McAlister A., Cruickshank A., Golitko M., Kneebone B., McCoy M.D., Reepmeyer C., Sheppard P.J., Sinton J.M., Weisler M.I. 2020. **Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials**, *Scientific Data* 7, 1–9. https://doi.org/10.1038/s41597-020-0485-8
 
-@. Rurua V.A., Béarez P., **Hermann A.**, Conte E. 2020. **Length and weight reconstruction of Chlorurus microrhinos (Scaridae) from isolated cranial bones and vertebrae**. *Cybium* 44, 61-68. https://doi.org/10.26028/cybium/2020-441-008
+@. Rurua V.A., Béarez P., **Hermann A.**, Conte E. 2020. **Length and weight reconstruction of Chlorurus microrhinos (Scaridae) from isolated cranial bones and vertebrae**, *Cybium* 44, 61-68. https://doi.org/10.26028/cybium/2020-441-008
 
-@. **Hermann A.**, Molle G., Maury R., Liorzou C., McAlister A. 2019. **Geochemical sourcing of volcanic materials imported into Teti’aroa Atoll shows multiple long-distance interactions in the Windward Society Islands, French Polynesia**. *Archaeology in Oceania*, 54 (3), 184–199. `https://doi.org/10.1002/arco.5187`
+@. **Hermann A.**, Molle G., Maury R., Liorzou C., McAlister A. 2019. **Geochemical sourcing of volcanic materials imported into Teti’aroa Atoll shows multiple long-distance interactions in the Windward Society Islands, French Polynesia**, *Archaeology in Oceania*, 54 (3), 184–199. `https://doi.org/10.1002/arco.5187`
 
-@. Molle G., **Hermann A.**, Lagarde L., Stoll B., 2019. **The long-term history of Teti’aroa (Society Islands, French Polynesia): New archaeological and ethnohistorical investigations**. *Journal of Pacific Archaeology*, 10 (2), 55–62
+@. Molle G., **Hermann A.**, Lagarde L., Stoll B., 2019. **The long-term history of Teti’aroa (Society Islands, French Polynesia): New archaeological and ethnohistorical investigations**, *Journal of Pacific Archaeology*, 10 (2), 55–62
 
-@. **Hermann A.** 2018. **Archéologie de ’Uvea Mama’o [Book review]**. *Journal of the Polynesian Society*, 127, 258–260.
+@. **Hermann A.** 2018. **Archéologie de ’Uvea Mama’o [Book review]**, *Journal of the Polynesian Society*, 127, 258–260.
 
-@. **Hermann A.** 2018. **Stone adzes production in Tupua’i (Austral islands, French Polynesia): Specialisation in a changing chiefdom of Central Eastern Polynesia**. *Journal of Lithic Studies*, 4(2), 351–385. `https://doi.org/10.2218/jls.v4i2.2546`
+@. **Hermann A.** 2018. **Stone adzes production in Tupua’i (Austral islands, French Polynesia): Specialisation in a changing chiefdom of Central Eastern Polynesia**, *Journal of Lithic Studies*, 4(2), 351–385. `https://doi.org/10.2218/jls.v4i2.2546`
 
-@. Dotte-Sarout E., Cauchois H., Charleux M., Domergue S., **Hermann A.**, Lagarde L., Leclerc M., Maric T., Molle G., Nolet E., Noury A., Rurua V.A., Wadrawane J.-M. 2018. **Putting New Francophone Archaeology on the Pacific Map: current work of early career researchers in Archéologie Océaniste**. *Archaeology in Oceania*, 53(1), 103–115. `https://doi.org/10.1002/arco.5146`
+@. Dotte-Sarout E., Cauchois H., Charleux M., Domergue S., **Hermann A.**, Lagarde L., Leclerc M., Maric T., Molle G., Nolet E., Noury A., Rurua V.A., Wadrawane J.-M. 2018. **Putting New Francophone Archaeology on the Pacific Map: current work of early career researchers in Archéologie Océaniste**, *Archaeology in Oceania*, 53(1), 103–115. `https://doi.org/10.1002/arco.5146`
 
-@. **Hermann A.**, Sauzéat L., Guillou H., Maury R.C., Chauvel C., Liorzou L., Conte E. 2017. **Combined geochemical and geochronological analyses of stone artefacts provide unambiguous evidence of intra- and inter-island interactions in Polynesia**. *Journal of Archaeological Science: Reports*, 13, 75–87. `https://doi.org/10.1016/j.jasrep.2017.03.024`
+@. **Hermann A.**, Sauzéat L., Guillou H., Maury R.C., Chauvel C., Liorzou L., Conte E. 2017. **Combined geochemical and geochronological analyses of stone artefacts provide unambiguous evidence of intra- and inter-island interactions in Polynesia**, *Journal of Archaeological Science: Reports*, 13, 75–87. `https://doi.org/10.1016/j.jasrep.2017.03.024`
 
-@. **Hermann A.**, Bollt R., Conte E. 2015. **The Atiahara Site Revisited: An Early Coastal Settlement in Tubuai (Austral Islands, French Polynesia)**. *Archaeology in Oceania*, 51(1), 31–44. `https://doi.org/10.1002/arco.5070`
+@. **Hermann A.**, Bollt R., Conte E. 2015. **The Atiahara Site Revisited: An Early Coastal Settlement in Tubuai (Austral Islands, French Polynesia)**, *Archaeology in Oceania*, 51(1), 31–44. `https://doi.org/10.1002/arco.5070`
 
 
 `ASCL`
 
-@. **Hermann A.**, Willie E., Longa I., Bedford S. 2019. **Risej blong akiologi long Emae aelen [Archaeological research on Emae Island]**. MPI-SHH/Vanuatu Cultural Center.
+@. **Hermann A.**, Willie E., Longa I., Bedford S. 2019. **Risej blong akiologi long Emae aelen [Archaeological research on Emae Island]**, MPI-SHH/Vanuatu Cultural Center.
 
-@. **Hermann A.**, Maury M., Liorzou C. 2012. **Traçabilité des matières premières lithiques dans les assemblages archéologiques polynésiens: le cas de Tubuai (Archipel des Australes, Polynésie française)**. *Géologue* 172 : 80-83. 
+@. **Hermann A.**, Maury M., Liorzou C. 2012. **Traçabilité des matières premières lithiques dans les assemblages archéologiques polynésiens: le cas de Tubuai (Archipel des Australes, Polynésie française)**, *Géologue* 172 : 80-83. 
 
-@. **Hermann A.**. 2012. **La vengeance légendaire de 'Apeku'a : Structure et sémantique de cinq variantes de la version marquisienne de la légende d’Apakura**. *Bulletin de la Société des Etudes Océaniennes* 325 : 23-37.
+@. **Hermann A.**. 2012. **La vengeance légendaire de 'Apeku'a : Structure et sémantique de cinq variantes de la version marquisienne de la légende d’Apakura**, *Bulletin de la Société des Etudes Océaniennes* 325 : 23-37.
 
-@. **Hermann A.**. 2009. **Typo-technologie des industries lithiques des gisements d’Erquy (Côtes-d’Armor)**. *Dossiers du Centre Régional d'Archéologie d'Alet* 37 : 5-17. 
+@. **Hermann A.**. 2009. **Typo-technologie des industries lithiques des gisements d’Erquy (Côtes-d’Armor)**, *Dossiers du Centre Régional d'Archéologie d'Alet* 37 : 5-17. 
 
 
 #### Direction d'ouvrage (DO)
@@ -113,7 +113,7 @@ __DEUG-Licence__, Université de Nantes
 
 @. **Hermann A.** 2021. **Archéométrie des systèmes d’échange Polynésiens : un état des lieux**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 19-24.
 
-@. **Hermann A.** 2021. **Archéologie de Tupua’i : Bilan des travaux et perspectives de recherche**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 331-344.
+@. **Hermann A.** 2021. **Archéologie de Tupua’i: Bilan des travaux et perspectives de recherche**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 331-344.
 
 @. **Hermann A.**, Rurua L., Rurua M., Rurua V.A., Marić T., Cauchois H., Molle G. 2021. **Etude et restauration des structures archéologiques sur la terre Pererau à Piha'e'ina (Mo'orea, Archipel de la Société)**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 51-56.
 
@@ -136,11 +136,11 @@ __DEUG-Licence__, Université de Nantes
 
 ### Bases de données, Codes sources, Données ouvertes
 
-@. **Hermann A.** 2023. tupuni/polynesianoutliersvoyaging, data and code for A. Hermann et al. 2023 Science Advances. *Zenodo*. https://doi.org/10.5281/zenodo.7388196
+@. **Hermann A.** 2023. tupuni/polynesianoutliersvoyaging, Données et code pour A. Hermann et al. 2023 Science Advances. *Zenodo*. https://doi.org/10.5281/zenodo.7388196
 
 @. **Hermann A.**, Forkel R. 2021. pofatu/pofatu-data v1.2: Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. *Zenodo*. https://doi.org/10.5281/zenodo.4726799
 
-@. **Hermann A.**, Walworth M. 2020. Data and code for Hermann & Walworth 2020 Journal de la Société des Océanistes. *Zenodo*. https://doi.org/10.5281/zenodo.4243080 
+@. **Hermann A.**, Walworth M. 2020. Données pour Hermann & Walworth 2020 Journal de la Société des Océanistes. *Zenodo*. https://doi.org/10.5281/zenodo.4243080 
 
 @. **Hermann A.**, Forkel R. 2020. pofatu/pofatu-data v1.1.1: Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. *Zenodo*. https://doi.org/10.5281/zenodo.4134337
 
@@ -155,9 +155,9 @@ __DEUG-Licence__, Université de Nantes
 
 @. **Hermann A.**. 2016. Preliminary report on the basalt and obsidian artefacts from Ava Ranga Uka A Toroke Hau (Rapa Nui-Easter Island). Deutsches Archäologisches Institut. 
 
-@. Butaud J.-F., **Hermann A.**, Aureau M. 2016. Mission d'expertise conseil - Définition des enjeux naturels et culturels sur le site de la rivière Aoma et conduite d'actions de valorisation du patrimoine. Projet INTEGRE, Pacific Community (SPC) et Union Européenne. 
+@. Butaud J.-F., **Hermann A.**, Aureau M. 2016. Mission d'expertise conseil, Définition des enjeux naturels et culturels sur le site de la rivière Aoma et conduite d'actions de valorisation du patrimoine. Projet INTEGRE, Pacific Community (SPC) et Union Européenne. 
 
-@. **Hermann A.**. 2015. Ecologie de l'exploitation marine pré-européenne dans l'île de Tubuai (Archipel des Australes, Polynésie française). Scientific report of the Haere I Tai project to LabEx CORAIL, Paris.
+@. **Hermann A.**. 2015. Ecologie de l'exploitation marine pré-européenne dans l'île de Tubuai (Archipel des Australes, Polynésie française). Rapport scientifique du projet Haere I Tai, LabEx CORAIL, Paris.
 
 @. **Hermann A.**. 2014. Le matériel lithique du site du Marae Ta'ata (Commune de Paea, Tahiti). Service de la Culture et du Patrimoine, Tahiti.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  21 FEB 2023 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  22 FEB 2023 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -427,32 +427,32 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/Users/hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
-Underfull \hbox (badness 1472) in paragraph at lines 531--570
+Underfull \hbox (badness 1472) in paragraph at lines 562--601
 \T1/lmr/m/it/10 Sémi-naire Mas-ter Recherche Ethno-archéologie de l'Océanie, Uni-ver-sité Paris-1 Panthéon-Sorbonne\T1/lmr/m/n/10 ,
  []
 
 [6] [7]
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 657.
+(fancyhdr)                Please consider using the `twoside' option on input line 688.
 
 [8] (./cv-en.aux)
 Package rerunfilecheck Info: File `cv-en.out' has not changed.
-(rerunfilecheck)             Checksum: C5942BCE2CFDC29D2381C0DA5B77B11E;2538.
+(rerunfilecheck)             Checksum: 7B3687A7EC4484C7CA0C574948FC7C08;2693.
  ) 
 Here is how much of TeX's memory you used:
- 10806 strings out of 477989
- 167996 string characters out of 5838545
- 1864346 words of memory out of 5000000
- 30728 multiletter control sequences out of 15000+600000
+ 10815 strings out of 477989
+ 168093 string characters out of 5838545
+ 1865346 words of memory out of 5000000
+ 30730 multiletter control sequences out of 15000+600000
  565179 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,76p,418b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,418b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on cv-en.pdf (8 pages, 231600 bytes).
+Output written on cv-en.pdf (8 pages, 233236 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

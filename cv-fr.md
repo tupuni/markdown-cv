@@ -228,7 +228,7 @@ C-SEM Communications dans un séminaire
 
 1. Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/2023. 
 
-1. Teti'aroa, Archéologie d’un atoll polynésien (with G. Molle and V.A. Rurua). *Arue city hall, Tahiti, Polynésie française*, 06/12/22.
+1. Teti'aroa, Archéologie d’un atoll polynésien (with G. Molle and V.A. Rurua). *Mairie d'Arue, Tahiti, Polynésie française*, 06/12/22.
 
 1. L'anthropologie historique des sociétés insulaires du Pacifique : La place de l'archéologie dans une dialectique interdisciplinaire. *Séminaire Ethno-archéologie et archéologie expérimentale, Université de Nantes*, 22/02/22.
 
@@ -271,7 +271,7 @@ comm a ommettre
 * 2019,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 11/19.  
 * 2019, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 08-09/19.  
 * 2018, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 10/18.  
-* 2016, *Aoma valley, Toahotu, Taiarapu, Iles de la Société, Polynésie française* (with J-F. Butaud), 04-05/16.  
+* 2016, *Vallée de l'Aoma, Toahotu, Taiarapu, Iles de la Société, Polynésie française* (with J-F. Butaud), 04-05/16.  
 * 2016, *Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/16.  
 * 2015, *Atiahara, Tupua'i, Iles Australes, Polynésie française*, 12/15.  
 * 2015, *Marae Pererau, Piha'e'ina, Mo’orea, Iles de la Société, Polynésie française*, 05/15.  

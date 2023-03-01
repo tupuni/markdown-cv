@@ -180,6 +180,8 @@ __BA__, Université de Nantes
 
 ### Conference presentations
 
+1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
+
 1. Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 23/11/2022, Université de la Polynésie française, Tahiti.
 
 1. Disentangling the complex history of the Polynesian Outliers (with M. Walworth, S. Greenhill, R. Gray). *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 22/11/2022, Université de la Polynésie française, Tahiti.

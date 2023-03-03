@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  1 MAR 2023 11:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  3 MAR 2023 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,7 +449,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,12n,76p,418b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on cv-en.pdf (8 pages, 233635 bytes).
+Output written on cv-en.pdf (8 pages, 233640 bytes).
 PDF statistics:
  264 PDF objects out of 1000 (max. 8388607)
  237 compressed objects within 3 object streams

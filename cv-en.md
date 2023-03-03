@@ -78,7 +78,7 @@ __BA__, Université de Nantes
 
 @. **Hermann A.**, Molle G., Maury R., Liorzou C., McAlister A. 2019. **Geochemical sourcing of volcanic materials imported into Teti’aroa Atoll shows multiple long-distance interactions in the Windward Society Islands, French Polynesia**, *Archaeology in Oceania*, 54 (3), 184–199. `https://doi.org/10.1002/arco.5187`
 
-@. Molle G., **Hermann A.**, Lagarde L., Stoll B., 2019. **The long-term history of Teti’aroa (Society Islands, French Polynesia): New archaeological and ethnohistorical investigations**, *Journal of Pacific Archaeology*, 10 (2), 55–62
+@. Molle G., **Hermann A.**, Lagarde L., Stoll B. 2019. **The long-term history of Teti’aroa (Society Islands, French Polynesia): New archaeological and ethnohistorical investigations**, *Journal of Pacific Archaeology*, 10 (2), 55–62
 
 @. **Hermann A.** 2018. **Stone adzes production in Tupua’i (Austral islands, French Polynesia): Specialisation in a changing chiefdom of Central Eastern Polynesia**, *Journal of Lithic Studies*, 4(2), 351–385. `https://doi.org/10.2218/jls.v4i2.2546`
 
@@ -101,7 +101,7 @@ __BA__, Université de Nantes
 
 ### Books and books chapters
 
-@. **Hermann A.**, Valentin F., Sand C., Nolet E., (Eds.) 2020. **Networks and Monumentality in the Pacific**, Proceedings of the XVIII UISPP World Congress: Archaeopress Archaeology, Oxford.
+@. **Hermann A.**, Valentin F., Sand C., Nolet E. (Eds.) 2020. **Networks and Monumentality in the Pacific**, Proceedings of the XVIII UISPP World Congress: Archaeopress Archaeology, Oxford.
 
 @. **Hermann A.** 2020. **Herminettes océaniennes**, in: Kouamé, N., Meyer, É.P., Viguier, A. (Eds.), *Encyclopédie Des Historiographies: Afriques, Amériques, Asies: Volume 1 : Sources et Genres Historiques (Tome 1 et Tome 2)*, TransAireS. Presses de l’Inalco, Paris, 718-722.
 
@@ -131,9 +131,9 @@ __BA__, Université de Nantes
 
 @. **Hermann A.**, Maury M., Liorzou C. 2012. **Traçabilité des matières premières lithiques dans les assemblages archéologiques polynésiens: le cas de Tubuai (Archipel des Australes, Polynésie française)**, *Géologue* 172 : 80-83. 
 
-@. **Hermann A.**. 2012. **La vengeance légendaire de 'Apeku'a : Structure et sémantique de cinq variantes de la version marquisienne de la légende d’Apakura**, *Bulletin de la Société des Etudes Océaniennes* 325 : 23-37.
+@. **Hermann A.** 2012. **La vengeance légendaire de 'Apeku'a : Structure et sémantique de cinq variantes de la version marquisienne de la légende d’Apakura**, *Bulletin de la Société des Etudes Océaniennes* 325 : 23-37.
 
-@. **Hermann A.**. 2009. **Typo-technologie des industries lithiques des gisements d’Erquy (Côtes-d’Armor)**, *Dossiers du Centre Régional d'Archéologie d'Alet* 37 : 5-17. 
+@. **Hermann A.** 2009. **Typo-technologie des industries lithiques des gisements d’Erquy (Côtes-d’Armor)**, *Dossiers du Centre Régional d'Archéologie d'Alet* 37 : 5-17. 
 
 
 ### Open data and Code
@@ -151,29 +151,29 @@ __BA__, Université de Nantes
 
 ### Institutional reports
 
-@. **Hermann A.**. 2017. Fouilles archéologiques et plan de restauration du marae Pererau (commune de Piha'e'ina, Mo'orea). Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2017. Fouilles archéologiques et plan de restauration du marae Pererau (commune de Piha'e'ina, Mo'orea). Service de la Culture et du Patrimoine, Tahiti.
 
-@. Molle G., **Hermann A.**. 2017. An Atoll in History: Archaeological Research on Teti'aroa (Society Islands). Final Report Phase 1. Teti'aroa Society, Seeley Foundation. Service de la Culture et du Patrimoine, Tahiti.
+@. Molle G., **Hermann A.** 2017. An Atoll in History: Archaeological Research on Teti'aroa (Society Islands). Final Report Phase 1. Teti'aroa Society, Seeley Foundation. Service de la Culture et du Patrimoine, Tahiti.
 
-@. **Hermann A.**. 2016. Preliminary report on the basalt and obsidian artefacts from Ava Ranga Uka A Toroke Hau (Rapa Nui-Easter Island). Deutsches Archäologisches Institut. 
+@. **Hermann A.** 2016. Preliminary report on the basalt and obsidian artefacts from Ava Ranga Uka A Toroke Hau (Rapa Nui-Easter Island). Deutsches Archäologisches Institut. 
 
 @. Butaud J.-F., **Hermann A.**, Aureau M. 2016. Mission d'expertise conseil - Définition des enjeux naturels et culturels sur le site de la rivière Aoma et conduite d'actions de valorisation du patrimoine. Projet INTEGRE, Pacific Community (SPC) et Union Européenne. 
 
-@. **Hermann A.**. 2015. Ecologie de l'exploitation marine pré-européenne dans l'île de Tubuai (Archipel des Australes, Polynésie française). Scientific report of the Haere I Tai project to LabEx CORAIL, Paris.
+@. **Hermann A.** 2015. Ecologie de l'exploitation marine pré-européenne dans l'île de Tubuai (Archipel des Australes, Polynésie française). Scientific report of the Haere I Tai project to LabEx CORAIL, Paris.
 
-@. **Hermann A.**. 2014. Le matériel lithique du site du Marae Ta'ata (Commune de Paea, Tahiti). Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2014. Le matériel lithique du site du Marae Ta'ata (Commune de Paea, Tahiti). Service de la Culture et du Patrimoine, Tahiti.
 
-@. Molle G., Murail P., **Hermann A.**. 2014. Recherches archéologiques et anthropologiques sur l’atoll de Temoe (Archipel des Gambier). Service de la Culture et du Patrimoine, Tahiti.
+@. Molle G., Murail P., **Hermann A.** 2014. Recherches archéologiques et anthropologiques sur l’atoll de Temoe (Archipel des Gambier). Service de la Culture et du Patrimoine, Tahiti.
 
-@. **Hermann A.**. 2013. Vestiges archéologiques menacés par les eaux sur le motu Horoatera (Atoll de Teti'aroa, Iles de la Société). Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2013. Vestiges archéologiques menacés par les eaux sur le motu Horoatera (Atoll de Teti'aroa, Iles de la Société). Service de la Culture et du Patrimoine, Tahiti.
 
-@. **Hermann A.**. 2012. Bilan des opérations archéologiques menées sur le site d’Atiahara (parcelle commune de Mata'ura, Tubuai) d’après les données de terrain des fouilles entreprises en 1995-1996, 1999 et 2007. Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2012. Bilan des opérations archéologiques menées sur le site d’Atiahara (parcelle commune de Mata'ura, Tubuai) d’après les données de terrain des fouilles entreprises en 1995-1996, 1999 et 2007. Service de la Culture et du Patrimoine, Tahiti.
 
-@. **Hermann A.**. 2011. Dynamique de production des industries lithiques en Polynésie centrale : travaux entrepris dans l'Ile de Tubuai (Archipel des Australes, Polynésie française). Contrat de projet CIRAP Etat-Territoire 2010-2011. Service de la Culture et du Patrimoine, Tahiti. 
+@. **Hermann A.** 2011. Dynamique de production des industries lithiques en Polynésie centrale : travaux entrepris dans l'Ile de Tubuai (Archipel des Australes, Polynésie française). Contrat de projet CIRAP Etat-Territoire 2010-2011. Service de la Culture et du Patrimoine, Tahiti. 
 
-@. **Hermann A.**. 2011	Rapport de fouille sur le site archéologique de Tanataetea, commune de Mata'ura, Ile de Tubuai (Archipel des Australes, Polynésie française). Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2011	Rapport de fouille sur le site archéologique de Tanataetea, commune de Mata'ura, Ile de Tubuai (Archipel des Australes, Polynésie française). Service de la Culture et du Patrimoine, Tahiti.
 
-@. **Hermann A.**. 2010. Prospections archéologiques dans l'Ile de Tubuai (Archipel des Australes, Polynésie française). Service de la Culture et du Patrimoine, Tahiti.
+@. **Hermann A.** 2010. Prospections archéologiques dans l'Ile de Tubuai (Archipel des Australes, Polynésie française). Service de la Culture et du Patrimoine, Tahiti.
 
 
 ## Presentations and lectures

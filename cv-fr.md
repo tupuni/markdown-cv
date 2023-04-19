@@ -224,6 +224,8 @@ C-COM Communications orales sans actes dans un congrès international ou nationa
 
 C-SEM Communications dans un séminaire
 
+1. Atelier "R pour les aRchéologues" (co-organisé avec A. Vignoles). *Atelier, UMR 8068*, MSH Mondes, Nanterre, Avril-Mai 2023.
+
 1. L’usage du code source pour la recherche : Avantages, Inconvénient, Nécessité. *Réunion d'unité, UMR 8068*, MSH Mondes, Nanterre, 17/02/23.
 
 1. La production des lames d’herminette comme proxy de l’évolution des chefferies dans les îles Marquises (Polynésie française). *Journée d’étude « Les pratiques techniques », UMR 8068*, MSH Mondes, Nanterre, 09/02/23.

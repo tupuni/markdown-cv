@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.6)  6 APR 2023 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.6)  19 APR 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -427,14 +427,14 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/Users/aymeric.hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2] [3] [4] [5] [6]
-Underfull \hbox (badness 1472) in paragraph at lines 573--612
+Underfull \hbox (badness 1472) in paragraph at lines 575--614
 \T1/lmr/m/it/10 Sémi-naire Mas-ter Recherche Ethno-archéologie de l'Océanie, Uni-ver-sité Paris-1 Panthéon-Sorbonne\T1/lmr/m/n/10 ,
  []
 
 [7]
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 699.
+(fancyhdr)                Please consider using the `twoside' option on input line 701.
 
 [8] (./cv-en.aux)
 Package rerunfilecheck Info: File `cv-en.out' has not changed.
@@ -449,7 +449,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,11n,76p,418b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on cv-en.pdf (8 pages, 234165 bytes).
+Output written on cv-en.pdf (8 pages, 234287 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  239 compressed objects within 3 object streams

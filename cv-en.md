@@ -223,6 +223,7 @@ __BA__, Université de Nantes
 ### Invited lectures
 
 `2023`  
+* R pour les aRchéologues (co-organised with A. Vignoles). *Workshop, UMR 8068*, MSH Mondes, Nanterre, April-May 2023.  
 * L’usage du code source pour la recherche : Avantages, Inconvénient, Nécessité. *Réunion d'unité, UMR 8068*, MSH Mondes, Nanterre, 17/02/23.  
 * La production des lames d’herminette comme proxy de l’évolution des chefferies dans les îles Marquises (Polynésie française). *Journée d’étude « Les pratiques techniques », UMR 8068*, MSH Mondes, Nanterre, 09/02/23.  
 * Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/2023.  

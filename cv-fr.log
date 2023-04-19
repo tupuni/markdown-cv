@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.6)  6 APR 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.6)  19 APR 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,28 +426,28 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 10
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
-{/Users/aymeric.hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2] [3] [4] [5] [6] [7]
+{/Users/aymeric.hermann/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2] [3] [4] [5] [6] [7] [8]
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 723.
+(fancyhdr)                Please consider using the `twoside' option on input line 726.
 
-[8] (./cv-fr.aux)
+[9] (./cv-fr.aux)
 Package rerunfilecheck Info: File `cv-fr.out' has not changed.
 (rerunfilecheck)             Checksum: CD161DA3B96148863FCD68D9901C7F51;2006.
  ) 
 Here is how much of TeX's memory you used:
- 10825 strings out of 477977
- 169361 string characters out of 5838230
+ 10827 strings out of 477977
+ 169374 string characters out of 5838230
  1865666 words of memory out of 5000000
  30737 multiletter control sequences out of 15000+600000
  565179 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,76p,364b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/aymeric.hermann/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on cv-fr.pdf (8 pages, 235222 bytes).
+Output written on cv-fr.pdf (9 pages, 236067 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 245 compressed objects within 3 object streams
- 121 named destinations out of 1000 (max. 500000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 123 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 

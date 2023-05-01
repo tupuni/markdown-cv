@@ -70,7 +70,7 @@ __BA__, Université de Nantes
 
 ### Peer reviewed journal articles
 
-@. **Hermann A.**, Gutiérrez P., Chauvel C., Maury R., Liorzou C., Willie E., Phillip I., Forkel R., Rzymski C., Bedford S. 2023. **Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers**, *Science Advances*, https://doi.org/10.1126/sciadv.adf4487
+@. **Hermann A.**, Gutiérrez P., Chauvel C., Maury R., Liorzou C., Willie E., Phillip I., Forkel R., Rzymski C., Bedford S. 2023. **Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers**, *Science Advances* 9, eadf4487. https://doi.org/10.1126/sciadv.adf4487
 
 @. **Hermann A.**, Walworth M. 2020. **Approche interdisciplinaire des échanges interculturels et de l’intégration des communautés polynésiennes dans le centre du Vanuatu**, *Journal de la Société des Océanistes* 151, 243–265. https://doi.org/10.4000/jso.11963
 

@@ -184,6 +184,8 @@ __BA__, Université de Nantes
 
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
+1. Collaborative repository for the study of volcanic rock transformation (with S. Sánchez-Dehesa Galán). *“I want to break free”: Current research on Percussive Implements during the Lower and Middle Palaeolithic*, 27/06/2023, Tel Aviv University, Israel.
+
 1. Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 23/11/2022, Université de la Polynésie française, Tahiti.
 
 1. Disentangling the complex history of the Polynesian Outliers (with M. Walworth, S. Greenhill, R. Gray). *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 22/11/2022, Université de la Polynésie française, Tahiti.
@@ -223,6 +225,8 @@ __BA__, Université de Nantes
 ### Invited lectures
 
 `2023`  
+* Three millenia of inter-island mobility among Pacific Island societies: 
+archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.  
 * R pour les aRchéologues (co-organised with A. Vignoles). *Workshop, UMR 8068*, MSH Mondes, Nanterre, April-May 2023.  
 * L’usage du code source pour la recherche : Avantages, Inconvénient, Nécessité. *Réunion d'unité, UMR 8068*, MSH Mondes, Nanterre, 17/02/23.  
 * La production des lames d’herminette comme proxy de l’évolution des chefferies dans les îles Marquises (Polynésie française). *Journée d’étude « Les pratiques techniques », UMR 8068*, MSH Mondes, Nanterre, 09/02/23.  
@@ -281,20 +285,47 @@ __BA__, Université de Nantes
 
 
 ## Occupation
-`Research positions`  
-* 2017-2020, *Post-doctoral fellow, Max Planck Institute for the Science of Human History, Jena (Germany). Department of Linguistic and Cultural Evolution* (1/9/17-31/8/20).  
-* 2015, *Post-doctoral fellow, LabEx CORAIL, French Polynesia. Research project: HAERE I TAI - Ecology of marine exploitation in pre-european Tubuai (Austral Islands, French Polynesia)* (1/1/15 - 31/12/15).  
-* 2013, *Research assistant, CIRAP/University of French Polynesia* (1/10/13 - 31/12/13).  
-* 2010-2012, *Doctoral fellow, University of French Polynesia* (1/1/10 - 31/12/12).  
+`Research positions`\
+* *Permanent researcher*, Centre National de la Recherche Scientifique (CNRS) - UMR 8068, since 2020.\
+* *Post-doctoral fellow*, Max Planck Institute for the Science of Human History, Jena (Germany). Department of Linguistic and Cultural Evolution, 2017-2020.\
+* *Post-doctoral fellow*, LabEx CORAIL, French Polynesia, 2015.\
+* *Research assistant*, University of French Polynesia, 2013.\
+* *PhD student*, University of French Polynesia, 2010-2013.\
 
-`Teaching positions`  
-* 2014-2017, *Lecturer, Archaeology and anthropology of Oceania (Undergraduates and Masters), University of French Polynesia* (1/9/14 - 31/8/17).  
-* 2014-2017,	*Instructor for graduated students in excavations/restoration on Mo'orea island Cultural associations Te 'ihi papa no ta'ato'a and Puna reo Piha'e'ina*.  
-* 2013-2015, *Instructor, International Center for Research and Archaeology in Polynesia (CIRAP), University of French Polynesia*.  
+
+`Teaching positions`\
+* *Lecturer in Archaeology and anthropology of Oceania (Undergraduates and Masters)*, University of French Polynesia, 2014-2017.\
+* *Instructor for graduated students in excavations/restoration on Mo'orea island Cultural associations Te 'ihi papa no ta'ato'a and Puna reo Piha'e'ina*, University of French Polynesia, 2014-2017.\
+* *Instructor, International Center for Research and Archaeology in Polynesia (CIRAP)*, University of French Polynesia, 2013-2015.\
 
 `Other appointments`  
-* 2016, *Consultant in Archaeology and Ethno-history on the INTEGRE Project. Archaeological survey in the Aoma valley and documentation of oral traditions in the Toahotu disctrict* (1/4/16-10/7/16).  
-* 2014, *Archaeology consultant, French Polynesian Cultural Heritage Department, Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).  
+* *Consultant in Archaeology and Ethno-history*, INTEGRE Project: Archaeological survey in the Aoma valley and documentation of oral traditions in the Toahotu disctrict (Tahiti) 2016.  
+* *Consultant in Archaeology*, French Polynesian Cultural Heritage Department, Service de la Culture et du Patrimoine (Tahiti), 2014.  
 
-\fancyfoot[LO,LE]{Last update: Feb 2023}
+
+## Academic service
+`Peer reviews`  
+Archaeology in Oceania (3), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+
+`Academic advising`  
+
+*Institut Pasteur*\
+Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
+
+*University Paris I Panthéon-Sorbonne*\
+Karno Elliott, M.A., co-supervisor, 2022-2023\
+Karno Elliott, M.A., co-supervisor, 2021-2022
+
+*University of French Polynesia*\
+Moanatea Claret, M.A., co-advisor, 2015-2016
+
+*University de Bordeaux*\
+Anthony Constant, Undergraduate, internship, 2021
+
+
+## Language proficiency
+*French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
+
+
+\fancyfoot[LO,LE]{Last update: June 2023}
 

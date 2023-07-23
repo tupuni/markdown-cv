@@ -193,6 +193,8 @@ C-COM Communications orales sans actes dans un congrès international ou nationa
 
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
+1. Collaborative repository for the study of volcanic rock transformation (with S. Sánchez-Dehesa Galán). *“I want to break free”: Current research on Percussive Implements during the Lower and Middle Palaeolithic*, 27/06/2023, Tel Aviv University, Israel.
+
 1. Artefact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 23/11/2022, Université de la Polynésie française, Tahiti.
 
 1. Disentangling the complex history of the Polynesian Outliers (with M. Walworth, S. Greenhill, R. Gray). *Colloque international CIRAP/UPF: Au coeur du triangle polynésien*, 22/11/2022, Université de la Polynésie française, Tahiti.
@@ -223,6 +225,9 @@ C-COM Communications orales sans actes dans un congrès international ou nationa
 
 
 C-SEM Communications dans un séminaire
+
+1. Three millenia of inter-island mobility among Pacific Island societies: 
+archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.  
 
 1. Atelier "R pour les aRchéologues" (co-organisé avec A. Vignoles). *Atelier, UMR 8068*, MSH Mondes, Nanterre, Avril-Mai 2023.
 
@@ -303,15 +308,38 @@ comm a ommettre
 * 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).  
 * 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).  
 * 2010-2012, *Doctorat, Université de la Polynésie française* (1/1/10 - 31/12/12).  
-
 `Enseignement`  
 * 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licence et Master), Université de la Polynésie française* (1/9/14 - 31/8/17).  
 * 2014-2017,	*Encadrement et formation des étudiants à la fouille et restauration du marae Pererau (Mo'orea), Associations culturelles Te 'ihi papa no ta'ato'a et Puna reo Piha'e'ina*.  
 * 2013-2015, *Gestion du laboratoire du CIRAP et tutorat des étudiants en stage, Centre International pour la Recherche Archéologique en Polynésie (CIRAP), Université de la Polynésie française*.  
 
-`Other appointments`  
+`Autres activités professionnelles`  
 * 2016, *Consultant en Archéologie et Ethno-histoire: Prospections archéologiques et analyse des traditions orales du district de Toahotu. Projet INTEGRE (Communauté du Pacifique/Union Européen)* (1/4/16-10/7/16).  
 * 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).  
 
-\fancyfoot[LO,LE]{Last update: Feb 2023}
+
+## Services académiques
+`Peer reviews`  
+Archaeology in Oceania (3), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+
+`Supervision`  
+*Institut Pasteur*\
+Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
+
+*Université Paris I Panthéon-Sorbonne*\
+Karno Elliott, M.A., co-directeur, 2022-2023\
+Karno Elliott, M.A., co-directeur, 2021-2022
+
+*University of French Polynesia*\
+Moanatea Claret, M.A., co-directeur, 2015-2016
+
+*University de Bordeaux*\
+Anthony Constant, L3, Maitre de stage, 2021
+
+
+## Compétences linguistiques
+*français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Tahitian* (débutant).
+
+
+\fancyfoot[LO,LE]{Last update: June 2023}
 

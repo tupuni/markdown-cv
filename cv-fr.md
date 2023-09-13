@@ -19,18 +19,18 @@ header-includes: |
 
 
 ## Affiliation
-Chargé de Recherche  
-Centre National de la Recherche Scientifique  
+Chargé de Recherche\
+Centre National de la Recherche Scientifique\
 [UMR 8068 Temps, MSH Mondes, F-92023 Nanterre](https://umrtemps.cnrs.fr/membre/hermann-aymeric/).  
 
-Chercheur associé au  
-Department of Linguistic and Cultural Evolution  
-Max-Planck-Institut für evolutionäre Anthropologie  
-Deutscher Platz 6, D-04103 Leipzig.  
-et  
-Centre International de Recherche Archéologique en Polynésie  
-Université de la Polynésie française  
-Campus d'Outumaoro, F-98702 Puna'auia.  
+Chercheur associé au\
+Centre International de Recherche Archéologique en Polynésie\
+Université de la Polynésie française\
+Campus d'Outumaoro, F-98702 Puna'auia.\
+et\
+Department of Linguistic and Cultural Evolution\
+Max-Planck-Institut für evolutionäre Anthropologie\
+Deutscher Platz 6, D-04103 Leipzig.\
 
 
 ## Thématiques de Recherche
@@ -41,7 +41,7 @@ Chronologie et modalités du peuplement des archipels du Pacifique Sud
 Technologie culturelle et systèmes techniques anciens en Océanie
 
 ` `
-Archéométrie et traçabilité des matériaux, géochimie des provenances (Fondateur de [Pofatu](https://pofatu.clld.org/))
+Archéométrie et traçabilité des matériaux, géochimie des provenances (création et maintien de [Pofatu](https://pofatu.clld.org/))
 
 ` `
 Évolution des chefferies polynésiennes
@@ -226,16 +226,18 @@ C-COM Communications orales sans actes dans un congrès international ou nationa
 
 C-SEM Communications dans un séminaire
 
-1. Three millenia of inter-island mobility among Pacific Island societies: 
-archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.  
+1. Beyond “Marlon Brando’s atoll”: Tracing the archaeological history of Teti'aroa, Society Islands (French Polynesia): a fieldwork story (presenté par E. Dotte, en collaboration avec G. Molle, V.A. Rurua, et E. Scorsini). *Archaeology Seminar Series University of Western Australia*, 30/08/23.
 
-1. Atelier "R pour les aRchéologues" (co-organisé avec A. Vignoles). *Atelier, UMR 8068*, MSH Mondes, Nanterre, Avril-Mai 2023.
+1. Three millenia of inter-island mobility among Pacific Island societies: 
+archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.
+
+1. Atelier "R pour les aRchéologues" (co-organisé avec A. Vignoles). *Atelier, UMR 8068*, MSH Mondes, Nanterre, Avril-Mai 23.
 
 1. L’usage du code source pour la recherche : Avantages, Inconvénient, Nécessité. *Réunion d'unité, UMR 8068*, MSH Mondes, Nanterre, 17/02/23.
 
 1. La production des lames d’herminette comme proxy de l’évolution des chefferies dans les îles Marquises (Polynésie française). *Journée d’étude « Les pratiques techniques », UMR 8068*, MSH Mondes, Nanterre, 09/02/23.
 
-1. Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/2023. 
+1. Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/23.
 
 1. Teti'aroa, Archéologie d’un atoll polynésien (with G. Molle and V.A. Rurua). *Mairie d'Arue, Tahiti, Polynésie française*, 06/12/22.
 
@@ -243,79 +245,102 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 
 1. Mobilité interinsulaire et réseaux d’interaction dans les chefferies polynésiennes : Théories anthropologiques, données ethnographiques, découvertes archéologiques, *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 31/01/22.
 
-1. Interdisciplinary approach to intercultural exchanges: The integration of Polynesian communities in Central Vanuatu (with M. Walworth). *Archaeology Seminar Series University of Western Australia*, 07/05/21.  
+1. Interdisciplinary approach to intercultural exchanges: The integration of Polynesian communities in Central Vanuatu (with M. Walworth). *Archaeology Seminar Series University of Western Australia*, 07/05/21.
 
-1. Ethno-archéologie des sociétés insulaires du Pacifique. *Séminaire Ethno-archéologie et archéologie expérimentale, Université de Nantes*, 02/03/21.  
+1. Ethno-archéologie des sociétés insulaires du Pacifique. *Séminaire Ethno-archéologie et archéologie expérimentale, Université de Nantes*, 02/03/21.
 
-1. Approche interdisciplinaire des échanges interculturels et de l’intégration des communautés polynésiennes dans le centre du Vanuatu. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 15/02/21.  
+1. Approche interdisciplinaire des échanges interculturels et de l’intégration des communautés polynésiennes dans le centre du Vanuatu. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 15/02/21.
 
-1. Le développement de l’approche archéométrique de la mobilité à longue distance dans les sociétés péhistoriques du Pacifique. *Institut de Physique du Globe (IPGP), Paris*, 6/9/18.  
+1. Le développement de l’approche archéométrique de la mobilité à longue distance dans les sociétés péhistoriques du Pacifique. *Institut de Physique du Globe (IPGP), Paris*, 6/9/18.
 
-1. Cultural evolution in the Pacific: New ways of investigating Polynesian societies through material culture and archaeometry. *DA talks, Max Planck Institute for the Science of Human History, Jena*, 18/9/17.  
+1. Cultural evolution in the Pacific: New ways of investigating Polynesian societies through material culture and archaeometry. *DA talks, Max Planck Institute for the Science of Human History, Jena*, 18/9/17.
 
-1. Feeling around the adze: New ways of investigating Polynesian societies through material culture and technology.  *Archaeology Seminar Series, Centre for Archaeological Research, Australian National University, Canberra*, 28/7/17.  
+1. Feeling around the adze: New ways of investigating Polynesian societies through material culture and technology.  *Archaeology Seminar Series, Centre for Archaeological Research, Australian National University, Canberra*, 28/7/17.
 
-1. Mobilité interinsulaire, relations inter-communautaires et différenciation culturelle en Polynésie centrale. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 9/3/17.  
+1. Mobilité interinsulaire, relations inter-communautaires et différenciation culturelle en Polynésie centrale. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 9/3/17.
 
-1. L'usage des sources dans la recherche en sciences sociales en Océanie. *Séminaire de Master 2 Langues, Culture et Sociétés d'Océanie, Université de Polynésie française*, 12/10/15.  
+1. L'usage des sources dans la recherche en sciences sociales en Océanie. *Séminaire de Master 2 Langues, Culture et Sociétés d'Océanie, Université de Polynésie française*, 12/10/15.
 
-1. Production et échange des lames d’herminette en Polynésie centrale, *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 12/2/14.  
+1. Production et échange des lames d’herminette en Polynésie centrale, *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 12/2/14.
 
-1. Système technique de production et échange d’outils en pierre en Polynésie centrale : l'archéométrie comme voie d’investigation, *Doctoriales de l’UPF, Université de Polynésie française*, 23-25/4/13.  
+1. Système technique de production et échange d’outils en pierre en Polynésie centrale : l'archéométrie comme voie d’investigation, *Doctoriales de l’UPF, Université de Polynésie française*, 23-25/4/13.
 
-1. Production et échange des outils en pierre dans les sociétés polynésiennes pré-européennes : un aperçu d'après les assemblages archéologiques de l'Ile de Tubuai (Archipel des Australes), *Doctoriales de l’UPF, Université de Polynésie française*, 25-27/4/12.  
+1. Production et échange des outils en pierre dans les sociétés polynésiennes pré-européennes : un aperçu d'après les assemblages archéologiques de l'Ile de Tubuai (Archipel des Australes), *Doctoriales de l’UPF, Université de Polynésie française*, 25-27/4/12.
 
-1. Géochimie et technologie lithique : dynamique de la production et échanges à longue distance en Polynésie centrale. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 01/12.   
+1. Géochimie et technologie lithique : dynamique de la production et échanges à longue distance en Polynésie centrale. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 01/12.
 
-1. Le tatouage en Polynésie centrale : nouvelles données sur le cas de Tubuai, Archipel des Australe. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 21/4/10.  
+1. Le tatouage en Polynésie centrale : nouvelles données sur le cas de Tubuai, Archipel des Australe. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 21/4/10.
 
-1. La production lithique en Polynésie centrale : le cas de l'Ile de Tubuai (Archipel des Australes). *Doctoriales de l’UPF, Université de Polynésie française*, 27-29/4/1.
+1. La production lithique en Polynésie centrale : le cas de l'Ile de Tubuai (Archipel des Australes). *Doctoriales de l’UPF, Université de Polynésie française*, 27-29/4/10.
 <!-- 
 comm a ommettre
 -->
 
+
+AP Interventions publiques
+
+1. 2023 Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp\
+
+1. 2023 Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://doi.org/10.1029/2023EO230239.\
+
+1. 2023 Polynesian tool finds support the oral histories behind Moana. Émission de radio. *Quirks and Quarks, CBC Listen*, animé par Bob McDonald, 20/05/23. https://www.cbc.ca/listen/live-radio/1-51/clip/15986007\
+
+1. 2023 Les grandes navigations polynésiennes révélées par une nouvelle étude archéologique. *Tahiti Infos*, entretien par Antoine Launey, 15/05/23. https://tinyurl.com/3rtnwxr5\
+
+1. 2023 Retracer les migrations polynésiennes grâce à des outils en pierre. Émission de radio. *Le Journal des sciences, France Culture*, animé par Alexandra Delbot, 24/04/23. https://tinyurl.com/yxm7ck6t\
+
+1. 2023 Des outils de pierre racontent l’histoire du peuplement de la Polynésie. *Le Figaro Sciences*, Entretien par Vincent Bordenave, 21/04/23. https://tinyurl.com/tumxaufp\
+
+1. 2023 Polynésiens de l'ouest du Pacifique, les cousins oubliés. *Tahiti Infos*, entretien par Antoine Launey, 05/01/23. https://tinyurl.com/2ftnvue4\
+
+1. 2022 "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22.\
+
+1. 2022 Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239.\
+
+
 ## Travaux de terrain
 `En tant que responsable scientifique`  
-* 2022,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 08-10/22.  
-* 2019,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 11/19.  
-* 2019, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 08-09/19.  
-* 2018, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 10/18.  
-* 2016, *Vallée de l'Aoma, Toahotu, Taiarapu, Iles de la Société, Polynésie française* (with J-F. Butaud), 04-05/16.  
-* 2016, *Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/16.  
-* 2015, *Atiahara, Tupua'i, Iles Australes, Polynésie française*, 12/15.  
-* 2015, *Marae Pererau, Piha'e'ina, Mo’orea, Iles de la Société, Polynésie française*, 05/15.  
-* 2015, *Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 02/15.  
-* 2014,	*Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/14.  
-* 2012,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 02/12.  
-* 2011,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 08/11.  
-* 2010,	*Tupua'i, Iles Australes, Polynésie française*, 01-10/10.  
+* 2023, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, S. Seule, VKS), 08/23.\
+* 2022,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 08-10/22.\
+* 2019,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 11/19.\
+* 2019, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, S. Seule, VKS), 08-09/19.\
+* 2018, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, VKS), 10/18.\
+* 2016, *Vallée de l'Aoma, Toahotu, Taiarapu, Iles de la Société, Polynésie française* (with J-F. Butaud), 04-05/16.\
+* 2016, *Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/16.\
+* 2015, *Atiahara, Tupua'i, Iles Australes, Polynésie française*, 12/15.\
+* 2015, *Marae Pererau, Piha'e'ina, Mo’orea, Iles de la Société, Polynésie française*, 05/15.\
+* 2015, *Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 02/15.\
+* 2014,	*Marae Pererau, Piha'e'ina, Mo'orea, Iles de la Société, Polynésie française*, 04/14.\
+* 2012,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 02/12.\
+* 2011,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 08/11.\
+* 2010,	*Tupua'i, Iles Australes, Polynésie française*, 01-10/10.\
 
 `En tant que collaborateur`  
-* 2016, *Ava Ranga Uka A Toroke Hau, Rapa Nui (Ile de Pâques), Chili* (avec A. Kuehlem, B. Vogt, Deutsches Archäologisches Institut), 03/16.  
-* 2013,	*Temoe, Iles Gambier, Polynésie française* (avec G. Molle, ANU, and P. Murail), 10/13.  
-* 2009,	*Hane, Ua Huka, Iles Marquises, Polynésie française* (avec E. Conte, UPF, P. Murail, Bordeaux-1, G. Molle, UPF), 01/09.  
+* 2016, *Ava Ranga Uka A Toroke Hau, Rapa Nui (Ile de Pâques), Chili* (avec A. Kuehlem, B. Vogt, Deutsches Archäologisches Institut), 03/16.\
+* 2013,	*Temoe, Iles Gambier, Polynésie française* (avec G. Molle, ANU, and P. Murail), 10/13.\
+* 2009,	*Hane, Ua Huka, Iles Marquises, Polynésie française* (avec E. Conte, UPF, P. Murail, Bordeaux-1, G. Molle, UPF), 01/09.\
 
 `Projets associatifs`  
-* 2014-2016, *Fouilles archéologiques et restauration du marae Pererau, Piha'e'in, Mo'orea (Archipel de la Société, Polynésie française)*. En collaboration avec les associations culturelles Puna Reo et Te 'ihi papa no ta'ato'a, et la Direction de la Culture et du Patrimoine.  
-* 2011,	*Fouilles archéologiques et restauration du marae Ogio, Ana’a (Archipel des Tuamotu, Polynésie française)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.  
-* 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.  
+* 2014-2016, *Fouilles archéologiques et restauration du marae Pererau, Piha'e'in, Mo'orea (Archipel de la Société, Polynésie française)*. En collaboration avec les associations culturelles Puna Reo et Te 'ihi papa no ta'ato'a, et la Direction de la Culture et du Patrimoine.\
+* 2011,	*Fouilles archéologiques et restauration du marae Ogio, Ana’a (Archipel des Tuamotu, Polynésie française)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.\
+* 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.\
 
 
 ## Activités professionnelles
 `Recherche`  
-* 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20). 
-* 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).  
-* 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).  
-* 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).  
-* 2010-2012, *Doctorat, Université de la Polynésie française* (1/1/10 - 31/12/12).  
+* 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20).\
+* 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).\
+* 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).\
+* 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).\
+* 2010-2012, *Doctorat, Université de la Polynésie française* (1/1/10 - 31/12/12).\
 `Enseignement`  
-* 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licence et Master), Université de la Polynésie française* (1/9/14 - 31/8/17).  
-* 2014-2017,	*Encadrement et formation des étudiants à la fouille et restauration du marae Pererau (Mo'orea), Associations culturelles Te 'ihi papa no ta'ato'a et Puna reo Piha'e'ina*.  
-* 2013-2015, *Gestion du laboratoire du CIRAP et tutorat des étudiants en stage, Centre International pour la Recherche Archéologique en Polynésie (CIRAP), Université de la Polynésie française*.  
+* 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licence et Master), Université de la Polynésie française* (1/9/14 - 31/8/17).\
+* 2014-2017,	*Encadrement et formation des étudiants à la fouille et restauration du marae Pererau (Mo'orea), Associations culturelles Te 'ihi papa no ta'ato'a et Puna reo Piha'e'ina*.\
+* 2013-2015, *Gestion du laboratoire du CIRAP et tutorat des étudiants en stage, Centre International pour la Recherche Archéologique en Polynésie (CIRAP), Université de la Polynésie française*.\
 
 `Autres activités professionnelles`  
-* 2016, *Consultant en Archéologie et Ethno-histoire: Prospections archéologiques et analyse des traditions orales du district de Toahotu. Projet INTEGRE (Communauté du Pacifique/Union Européen)* (1/4/16-10/7/16).  
-* 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).  
+* 2016, *Consultant en Archéologie et Ethno-histoire: Prospections archéologiques et analyse des traditions orales du district de Toahotu. Projet INTEGRE (Communauté du Pacifique/Union Européen)* (1/4/16-10/7/16).\
+* 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).\
 
 
 ## Services académiques
@@ -338,8 +363,8 @@ Anthony Constant, L3, Maitre de stage, 2021
 
 
 ## Compétences linguistiques
-*français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Tahitian* (débutant).
+*français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Last update: June 2023}
+\fancyfoot[LO,LE]{Dernière mise à jour: Septembre 2023}
 

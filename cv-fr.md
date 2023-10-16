@@ -345,18 +345,19 @@ AP Interventions publiques
 
 ## Services académiques
 `Peer reviews`  
-Archaeology in Oceania (3), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
 `Supervision`  
 *Institut Pasteur*\
-Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
+Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024
 
 *Université Paris I Panthéon-Sorbonne*\
-Karno Elliott, M.A., co-directeur, 2022-2023\
-Karno Elliott, M.A., co-directeur, 2021-2022
+Marvin Marinosa-Hernandez, Master, co-directeur, 2023-2024\
+Karno Elliott, M.A., Master, 2022-2023\
+Karno Elliott, M.A., Master, 2021-2022
 
 *University of French Polynesia*\
-Moanatea Claret, M.A., co-directeur, 2015-2016
+Moanatea Claret, Master, co-directeur, 2015-2016
 
 *University de Bordeaux*\
 Anthony Constant, L3, Maitre de stage, 2021

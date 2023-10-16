@@ -323,7 +323,7 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 
 ## Academic service
 `Peer reviews`  
-Archaeology in Oceania (3), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
 `Academic advising`  
 
@@ -331,6 +331,7 @@ Archaeology in Oceania (3), Journal of Anthropological Archaeology (1), Journal 
 Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
 
 *University Paris I Panthéon-Sorbonne*\
+Marvin Marinosa-Hernandez, M.A., co-supervisor, 2023-2024\
 Karno Elliott, M.A., co-supervisor, 2022-2023\
 Karno Elliott, M.A., co-supervisor, 2021-2022
 

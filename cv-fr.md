@@ -136,6 +136,8 @@ __DEUG-Licence__, Université de Nantes
 
 ### Bases de données, Codes sources, Données ouvertes
 
+@. **Hermann A.**, Forkel R. 2023. pofatu/pofatu-data v1.3: Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. *Zenodo*. https://doi.org/10.5281/zenodo.10090671
+
 @. **Hermann A.** 2023. tupuni/polynesianoutliersvoyaging, Données et code pour A. Hermann et al. 2023 Science Advances. *Zenodo*. https://doi.org/10.5281/zenodo.7388196
 
 @. **Hermann A.**, Forkel R. 2021. pofatu/pofatu-data v1.2: Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. *Zenodo*. https://doi.org/10.5281/zenodo.4726799

@@ -34,18 +34,10 @@ Deutscher Platz 6, D-04103 Leipzig.\
 
 
 ## Research focus
-` ` 
-Polynesian migrations in East Polynesia and Polynesian Outliers
-
-` `
-Anthropology of techniques and technical systems: lithic and shell industries
-
-` `
-Geochemical sourcing of stone materials (Founder of [Pofatu](https://pofatu.clld.org/))
-
-` `
-Evolution of social and economic organization in Polynesia
-
+Polynesian migrations in East Polynesia and Polynesian Outliers\
+Anthropology of techniques and technical systems: lithic and shell industries\
+Geochemical sourcing of stone materials (Founder of [Pofatu](https://pofatu.clld.org/))\
+Evolution of social and economic organization in Polynesia\
 
 
 ## Education
@@ -257,7 +249,7 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 * Géochimie et technologie lithique : dynamique de la production et échanges à longue distance en Polynésie centrale. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 01/12.\
 * Le tatouage en Polynésie centrale : nouvelles données sur le cas de Tubuai, Archipel des Australe. *Séminaire Master Recherche Ethno-archéologie de l'Océanie, Université Paris-1 Panthéon-Sorbonne*, 21/4/10.\
 
-<!-- * La production lithique en Polynésie centrale : le cas de l'Ile de Tubuai (Archipel des Australes). *Doctoriales de l’UPF, Université de Polynésie française*, 27-29/4/11. 
+<!-- * La production lithique en Polynésie centrale : le cas de l'Ile de Tubuai (Archipel des Australes). *Doctoriales de l’Université de Polynésie française*, 27-29/4/11. 
 -->
 
 ## Public outreach
@@ -274,6 +266,18 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 `2022`\
 * "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22.\
 * Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239. \
+
+
+## Research funding and grants
+
+*Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
+Principal investigator in collaboration with Vanuatu Kaljoral Senta and S. Bedford (Australian National University). Mission archéologique franco-vanuataise funded by the French Ministry of Foreign Affairs (~10kE yearly).
+
+*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques (2022-2023)*\
+Co-principal investigator with S. Sánchez-Dehesa. Funding by MSH Mondes (12kE).
+
+*Teti'aroa Society project : An atoll in History (2014-2022)*\
+Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-principal investigator with G. Molle (Australian National University). Funding (~60kE) from the Seeley Foundation (Washington State, USA). 
 
 
 ## Archaeological fieldwork in the Pacific Islands
@@ -304,14 +308,34 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 * 2007,	*Survey and restoration of monumental ceremonial and domestic structures (Ua Pou, Marquesas islands, French Polynesia)*, in collaboration with Institut de Recherche pour le Développement (IRD) and cultural association Motu haka.\
 
 
-## Occupation
+## Academic service
+`Peer reviews`  
+Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+
+`Academic advising`  
+
+*University Paris I Panthéon-Sorbonne*\
+Marvin Marinosa-Hernandez, M.A., co-supervisor, 2023-2024\
+Karno Elliott, M.A., co-supervisor, 2022-2023\
+Karno Elliott, M.A., co-supervisor, 2021-2022
+
+*Institut Pasteur*\
+Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
+
+*University of French Polynesia*\
+Moanatea Claret, M.A., co-advisor, 2015-2016
+
+*University de Bordeaux*\
+Anthony Constant, Undergraduate, internship, 2021
+
+
+## Previous positions
 `Research positions`\
 * *Permanent researcher*, Centre National de la Recherche Scientifique (CNRS) - UMR 8068, since 2020.\
 * *Post-doctoral fellow*, Max Planck Institute for the Science of Human History, Jena (Germany). Department of Linguistic and Cultural Evolution, 2017-2020.\
 * *Post-doctoral fellow*, LabEx CORAIL, French Polynesia, 2015.\
 * *Research assistant*, University of French Polynesia, 2013.\
 * *PhD student*, University of French Polynesia, 2010-2013.\
-
 
 `Teaching positions`\
 * *Lecturer in Archaeology and anthropology of Oceania (Undergraduates and Masters)*, University of French Polynesia, 2014-2017.\
@@ -323,30 +347,9 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 * *Consultant in Archaeology*, French Polynesian Cultural Heritage Department, Service de la Culture et du Patrimoine (Tahiti), 2014.  
 
 
-## Academic service
-`Peer reviews`  
-Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
-
-`Academic advising`  
-
-*Institut Pasteur*\
-Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
-
-*University Paris I Panthéon-Sorbonne*\
-Marvin Marinosa-Hernandez, M.A., co-supervisor, 2023-2024\
-Karno Elliott, M.A., co-supervisor, 2022-2023\
-Karno Elliott, M.A., co-supervisor, 2021-2022
-
-*University of French Polynesia*\
-Moanatea Claret, M.A., co-advisor, 2015-2016
-
-*University de Bordeaux*\
-Anthony Constant, Undergraduate, internship, 2021
-
-
 ## Language proficiency
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: September 2023}
+\fancyfoot[LO,LE]{Last update: November 2023}
 

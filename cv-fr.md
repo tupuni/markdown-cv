@@ -1,11 +1,13 @@
 ---
 title: "Curriculum vitae"
 layout: cv
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 header-includes: |
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-    \fancyhead[RO,RE]{}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,RE]{}
 ---
 # Aymeric Hermann
 
@@ -34,17 +36,10 @@ Deutscher Platz 6, D-04103 Leipzig.\
 
 
 ## Thématiques de Recherche
-` ` 
-Chronologie et modalités du peuplement des archipels du Pacifique Sud
-
-` `
-Technologie culturelle et systèmes techniques anciens en Océanie
-
-` `
-Archéométrie et traçabilité des matériaux, géochimie des provenances (création et maintien de [Pofatu](https://pofatu.clld.org/))
-
-` `
-Évolution des chefferies polynésiennes
+Chronologie et modalités du peuplement des archipels du Pacifique Sud\
+Technologie culturelle et systèmes techniques anciens en Océanie\
+Archéométrie et traçabilité des matériaux, géochimie des provenances (création et maintien de [Pofatu](https://pofatu.clld.org/))\
+Évolution des chefferies polynésiennes\
 
 
 ## Formation Universitaire
@@ -297,7 +292,19 @@ AP Interventions publiques
 
 1. 2022 "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22.\
 
-1. 2022 Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239.\
+1. 2022 Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239 \
+
+
+## Projets financés
+
+*Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
+Responsable scientifique en partenariat avec le Centre Culturel du Vanuatu et S. Bedford (Australian National University). Mission archéologique franco-vanuataise financée par le Ministère Européen des Affaires Etrangères (~10kE par année).
+
+*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques (2022-2023)*\
+Projet co-dirigé en collaboration avec S. Sánchez-Dehesa et financé par la MSH Mondes (12kE).
+
+*Teti'aroa Society project : An atoll in History (2015-2022)*\
+Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-responsable scientifique avec G. Molle (Australian National University). Dotation privée (~60kE au total) réactualisé à chaque année, par la Seeley Foundation (Washington State, E-U.). 
 
 
 ## Travaux de terrain
@@ -328,7 +335,27 @@ AP Interventions publiques
 * 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.\
 
 
-## Activités professionnelles
+## Services académiques
+`Peer reviews`  
+Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+
+`Supervision`  
+*Université Paris I Panthéon-Sorbonne*\
+Marvin Marinosa-Hernandez, Master, co-directeur, 2023-2024\
+Karno Elliott, M.A., Master, 2022-2023\
+Karno Elliott, M.A., Master, 2021-2022
+
+*Institut Pasteur*\
+Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024
+
+*University of French Polynesia*\
+Moanatea Claret, Master, co-directeur, 2015-2016
+
+*University de Bordeaux*\
+Anthony Constant, L3, Maitre de stage, 2021\
+
+
+## Activités antérieures
 `Recherche`  
 * 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20).\
 * 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).\
@@ -345,29 +372,9 @@ AP Interventions publiques
 * 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).\
 
 
-## Services académiques
-`Peer reviews`  
-Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
-
-`Supervision`  
-*Institut Pasteur*\
-Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024
-
-*Université Paris I Panthéon-Sorbonne*\
-Marvin Marinosa-Hernandez, Master, co-directeur, 2023-2024\
-Karno Elliott, M.A., Master, 2022-2023\
-Karno Elliott, M.A., Master, 2021-2022
-
-*University of French Polynesia*\
-Moanatea Claret, Master, co-directeur, 2015-2016
-
-*University de Bordeaux*\
-Anthony Constant, L3, Maitre de stage, 2021
-
-
 ## Compétences linguistiques
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Septembre 2023}
+\fancyfoot[LO,LE]{Dernière mise à jour: Novembre 2023}
 

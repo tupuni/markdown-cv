@@ -2,8 +2,8 @@
 title: "Curriculum vitae"
 layout: cv
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 header-includes: |
   \usepackage{fancyhdr}
   \pagestyle{fancy}
@@ -357,7 +357,7 @@ Anthony Constant, L3, Maitre de stage, 2021\
 
 ## Activités antérieures
 `Recherche`  
-* 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte the Science of Human History, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20).\
+* 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20).\
 * 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).\
 * 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).\
 * 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).\

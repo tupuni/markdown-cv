@@ -270,6 +270,9 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 
 ## Research funding and grants
 
+*Open Science award of the French Ministry of Higher Education, Research and Innovation (2024)*\
+Responsable scientifique (5kE).
+
 *Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
 Principal investigator in collaboration with Vanuatu Kaljoral Senta and S. Bedford (Australian National University). Mission archéologique franco-vanuataise funded by the French Ministry of Foreign Affairs (~10kE yearly).
 

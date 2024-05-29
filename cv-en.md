@@ -313,7 +313,7 @@ Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-p
 
 ## Academic service
 `Peer reviews`  
-Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
 `Academic advising`  
 
@@ -354,5 +354,5 @@ Anthony Constant, Undergraduate, internship, 2021
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: November 2023}
+\fancyfoot[LO,LE]{Last update: May 2024}
 

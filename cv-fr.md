@@ -4,6 +4,8 @@ layout: cv
 output:
   pdf_document: default
   word_document: default
+  html_document:
+    df_print: paged
 header-includes: |
   \usepackage{fancyhdr}
   \pagestyle{fancy}
@@ -296,6 +298,9 @@ AP Interventions publiques
 
 
 ## Projets financés
+
+*Prix Science Ouverte du Ministère de l’Enseignement supérieur et de la Recherche (2024)*\
+Responsable scientifique (5kE).
 
 *Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
 Responsable scientifique en partenariat avec le Centre Culturel du Vanuatu et S. Bedford (Australian National University). Mission archéologique franco-vanuataise financée par le Ministère Européen des Affaires Etrangères (~10kE par année).

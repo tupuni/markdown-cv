@@ -342,7 +342,7 @@ Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-res
 
 ## Services académiques
 `Peer reviews`  
-Archaeology in Oceania (3), Asian Perspectives (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
 `Supervision`  
 *Université Paris I Panthéon-Sorbonne*\
@@ -381,5 +381,5 @@ Anthony Constant, L3, Maitre de stage, 2021\
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Novembre 2023}
+\fancyfoot[LO,LE]{Dernière mise à jour: Mai 2024}
 

@@ -108,6 +108,8 @@ __DEUG-Licence__, Université de Nantes
 
 #### Chapitre d'ouvrage (CHA)
 
+@. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
+
 @. **Hermann A.** 2021. **Archéométrie des systèmes d’échange Polynésiens : un état des lieux**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 19-24.
 
 @. **Hermann A.** 2021. **Archéologie de Tupua’i: Bilan des travaux et perspectives de recherche**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 331-344.

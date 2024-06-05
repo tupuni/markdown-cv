@@ -95,6 +95,8 @@ __BA__, Université de Nantes
 
 ### Books and books chapters
 
+@. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
+
 @. **Hermann A.**, Valentin F., Sand C., Nolet E. (Eds.) 2020. **Networks and Monumentality in the Pacific**, Proceedings of the XVIII UISPP World Congress: Archaeopress Archaeology, Oxford.
 
 @. **Hermann A.** 2020. **Herminettes océaniennes**, in: Kouamé, N., Meyer, É.P., Viguier, A. (Eds.), *Encyclopédie Des Historiographies: Afriques, Amériques, Asies: Volume 1 : Sources et Genres Historiques (Tome 1 et Tome 2)*, TransAireS. Presses de l’Inalco, Paris, 718-722.

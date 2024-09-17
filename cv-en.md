@@ -256,31 +256,39 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 
 ## Public outreach
 
+`2024`\
+* Du volcan à l'outil, à la découverte des outils en pierre (ateliers avec classes primaires). *Fête de la Science*, organisée par le ministère de l'Enseignement supérieur et de la Recherche, 11/10/24. https://www.mshmondes.cnrs.fr/evenement/fete-de-la-science-2024 \
+* Île de Pâques: des analyses génétiques écartent le scénario d’un «suicide écologique». *Le Figaro Sciences*, entretien par Elisa Doré, 11/09/24. https://tinyurl.com/yen6wbu4 \
+
 `2023`\
 * Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp \
-* Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://doi.org/10.1029/2023EO230239. \
+* Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://eos.org/articles/stone-chemistry-records-pacific-migration \
 * Polynesian tool finds support the oral histories behind Moana. Émission de radio. *Quirks and Quarks, CBC Listen*, animé par Bob McDonald, 20/05/23. https://www.cbc.ca/listen/live-radio/1-51/clip/15986007 \
 * Les grandes navigations polynésiennes révélées par une nouvelle étude archéologique. *Tahiti Infos*, entretien par Antoine Launey, 15/05/23. https://tinyurl.com/3rtnwxr5 \
 * Retracer les migrations polynésiennes grâce à des outils en pierre. Émission de radio. *Le Journal des sciences, France Culture*, animé par Alexandra Delbot, 24/04/23. https://tinyurl.com/yxm7ck6t \
-* Des outils de pierre racontent l’histoire du peuplement de la Polynésie. *Le Figaro Sciences*, Entretien par Vincent Bordenave, 21/04/23. https://tinyurl.com/tumxaufp \
+* Des outils de pierre racontent l’histoire du peuplement de la Polynésie. *Le Figaro Sciences*, entretien par Vincent Bordenave, 21/04/23. https://tinyurl.com/tumxaufp \
 * Polynésiens de l'ouest du Pacifique, les cousins oubliés. *Tahiti Infos*, entretien par Antoine Launey, 05/01/23. https://tinyurl.com/2ftnvue4 \
 
 `2022`\
-* "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22.\
-* Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239. \
+* "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22. https://vimeo.com/791276940 \
+* Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239.\
 
 
 ## Research funding and grants
 
-*Open Science award of the French Ministry of Higher Education, Research and Innovation (2024)*\
+`2024`\
+*Open Science award of the French Ministry of Higher Education, Research and Innovation*\
 Responsable scientifique (5kE).
 
-*Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
+`2023-2026`\
+*Mission archéologique Panua ‘ata au Vanuatu*\
 Principal investigator in collaboration with Vanuatu Kaljoral Senta and S. Bedford (Australian National University). Mission archéologique franco-vanuataise funded by the French Ministry of Foreign Affairs (~10kE yearly).
 
-*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques (2022-2023)*\
+`2022-2023`\
+*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques*\
 Co-principal investigator with S. Sánchez-Dehesa. Funding by MSH Mondes (12kE).
 
+`2014-2022`\
 *Teti'aroa Society project : An atoll in History (2014-2022)*\
 Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-principal investigator with G. Molle (Australian National University). Funding (~60kE) from the Seeley Foundation (Washington State, USA). 
 
@@ -356,5 +364,5 @@ Anthony Constant, Undergraduate, internship, 2021
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: May 2024}
+\fancyfoot[LO,LE]{Last update: Oct 2024}
 

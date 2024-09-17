@@ -280,9 +280,13 @@ comm a ommettre
 
 AP Interventions publiques
 
+1. 2024 Du volcan à l'outil, à la découverte des outils en pierre (ateliers avec classes primaires). *Fête de la Science*, organisée par le ministère de l'Enseignement supérieur et de la Recherche, 11/10/24. https://www.mshmondes.cnrs.fr/evenement/fete-de-la-science-2024\
+
+1. 2024 Île de Pâques: des analyses génétiques écartent le scénario d’un «suicide écologique». *Le Figaro Sciences*, entretien par Elisa Doré, 11/09/24. https://tinyurl.com/yen6wbu4\
+
 1. 2023 Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp\
 
-1. 2023 Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://doi.org/10.1029/2023EO230239.\
+1. 2023 Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://eos.org/articles/stone-chemistry-records-pacific-migration
 
 1. 2023 Polynesian tool finds support the oral histories behind Moana. Émission de radio. *Quirks and Quarks, CBC Listen*, animé par Bob McDonald, 20/05/23. https://www.cbc.ca/listen/live-radio/1-51/clip/15986007\
 
@@ -290,27 +294,31 @@ AP Interventions publiques
 
 1. 2023 Retracer les migrations polynésiennes grâce à des outils en pierre. Émission de radio. *Le Journal des sciences, France Culture*, animé par Alexandra Delbot, 24/04/23. https://tinyurl.com/yxm7ck6t\
 
-1. 2023 Des outils de pierre racontent l’histoire du peuplement de la Polynésie. *Le Figaro Sciences*, Entretien par Vincent Bordenave, 21/04/23. https://tinyurl.com/tumxaufp\
+1. 2023 Des outils de pierre racontent l’histoire du peuplement de la Polynésie. *Le Figaro Sciences*, entretien par Vincent Bordenave, 21/04/23. https://tinyurl.com/tumxaufp\
 
 1. 2023 Polynésiens de l'ouest du Pacifique, les cousins oubliés. *Tahiti Infos*, entretien par Antoine Launey, 05/01/23. https://tinyurl.com/2ftnvue4\
 
-1. 2022 "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22.\
+1. 2022 "Suivez le Guide à Tubuai". Documentaire. *TNTV*, réalisé par Pierre de Nicola (La Pōpo'i Prod), 04/12/22. https://vimeo.com/791276940\
 
-1. 2022 Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/2022. https://doi.org/10.1029/2023EO230239 \
+1. 2022 Geochemical data from Polynesian artifacts pack Pofatu Database, *Eos 103*, entretien par Tripathy-Lang A., 07/03/22. https://doi.org/10.1029/2023EO230239\
 
 
 ## Projets financés
 
-*Prix Science Ouverte du Ministère de l’Enseignement supérieur et de la Recherche (2024)*\
+`2024`\
+*Prix Science Ouverte du Ministère de l’Enseignement supérieur et de la Recherche*\
 Responsable scientifique (5kE).
 
-*Mission archéologique Panua ‘ata au Vanuatu (2023-2026)*\
+`2023-2026`\
+*Mission archéologique Panua ‘ata au Vanuatu*\
 Responsable scientifique en partenariat avec le Centre Culturel du Vanuatu et S. Bedford (Australian National University). Mission archéologique franco-vanuataise financée par le Ministère Européen des Affaires Etrangères (~10kE par année).
 
-*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques (2022-2023)*\
+`2022-2023`\
+*Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques*\
 Projet co-dirigé en collaboration avec S. Sánchez-Dehesa et financé par la MSH Mondes (12kE).
 
-*Teti'aroa Society project : An atoll in History (2015-2022)*\
+`2015-2022`\
+*Teti'aroa Society project : An atoll in History*\
 Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-responsable scientifique avec G. Molle (Australian National University). Dotation privée (~60kE au total) réactualisé à chaque année, par la Seeley Foundation (Washington State, E-U.). 
 
 
@@ -383,5 +391,5 @@ Anthony Constant, L3, Maitre de stage, 2021\
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Mai 2024}
+\fancyfoot[LO,LE]{Dernière mise à jour: Oct 2024}
 

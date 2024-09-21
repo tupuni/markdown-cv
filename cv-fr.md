@@ -150,6 +150,10 @@ __DEUG-Licence__, Université de Nantes
 
 ### Rapports institutionnels
 
+@. **Hermann A.**,  Ponchelet J., Dotte-Sarout E. 2024. Recherches archéologiques sur Emae, Iles Shepherds, Vanuatu central. Travaux à Finongi titi et Tongamea. Programme quadriennal Panua ’ata (2023-2026). Ministère de l’Europe et des Affaires étrangères. Rapport à la commission consultative des recherches archéologiques françaises à l’étranger, Paris.
+
+@. **Hermann A.** 2023. Ethnogénèse, interactions et adaptation dans la région centrale du Vanuatu: Panua ’ata, le début d’un nouveau programme à Emae. Ministère de l’Europe et des Affaires étrangères. Rapport à la commission consultative des recherches archéologiques françaises à l’étranger, Paris.
+
 @. **Hermann A.** 2017. Fouilles archéologiques et plan de restauration du marae Pererau (commune de Piha'e'ina, Mo'orea). Service de la Culture et du Patrimoine, Tahiti.
 
 @. Molle G., **Hermann A.** 2017. An Atoll in History: Archaeological Research on Teti'aroa (Society Islands). Final Report Phase 1. Teti'aroa Society, Seeley Foundation. Service de la Culture et du Patrimoine, Tahiti.
@@ -177,9 +181,7 @@ __DEUG-Licence__, Université de Nantes
 
 ## Communications orales
 
-### Présentations en conférence
-
-C-ACTI Communications avec actes dans un congrès international
+### C-ACTI Communications avec actes dans un congrès international
 
 1. Geochemical compositions and provenance studies in the Pacific (with Forkel R., Powell A.). *XVIII UISPP World Congress*, 06/2018, Paris.
 
@@ -190,7 +192,7 @@ C-ACTI Communications avec actes dans un congrès international
 1. Production et échange des lames d'herminette en pierre en Polynésie centrale : dynamiques techno-économiques. *Colloque La pratique de l’espace en Océanie : Découverte, appropriation et émergence des systèmes sociaux traditionnels*, 02/2014, Paris.
 
 
-C-COM Communications orales sans actes dans un congrès international ou national
+### C-COM Communications orales sans actes dans un congrès international ou national
 
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
@@ -225,7 +227,7 @@ C-COM Communications orales sans actes dans un congrès international ou nationa
 1. Stone tool production processes and exchange in central Eastern Polynesia: geochemistry applied to archaeology. *Society for American Archaeology 78th Annual Meeting*, 04/2013, Honolulu, Hawai'i.
 
 
-C-SEM Communications dans un séminaire
+### C-SEM Communications dans un séminaire
 
 1. Beyond “Marlon Brando’s atoll”: Tracing the archaeological history of Teti'aroa, Society Islands (French Polynesia): a fieldwork story (presenté par E. Dotte, en collaboration avec G. Molle, V.A. Rurua, et E. Scorsini). *Archaeology Seminar Series University of Western Australia*, 30/08/23.
 
@@ -278,7 +280,7 @@ comm a ommettre
 -->
 
 
-AP Interventions publiques
+### AP Interventions publiques
 
 1. 2024 Du volcan à l'outil, à la découverte des outils en pierre (ateliers avec classes primaires). *Fête de la Science*, organisée par le ministère de l'Enseignement supérieur et de la Recherche, 11/10/24. https://www.mshmondes.cnrs.fr/evenement/fete-de-la-science-2024\
 
@@ -323,7 +325,8 @@ Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-res
 
 
 ## Travaux de terrain
-`En tant que responsable scientifique`  
+**En tant que responsable scientifique**\
+* 2024, *Emae, Shepherd Islands, Vanuatu* (with S. Ponchelet J., Paris-1, Dotte-Sarout E, UWA, I. Phillip, E. Willie, VKS), 08/24.\
 * 2023, *Emae, Shepherd Islands, Vanuatu* (avec S. Bedford, ANU, I. Phillip, E. Willie, S. Seule, VKS), 08/23.\
 * 2022,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 08-10/22.\
 * 2019,	*Teti'aroa, Iles de la Société, Polynésie française* (avec G. Molle, ANU), 11/19.\
@@ -339,50 +342,54 @@ Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-res
 * 2011,	*Tanataetea, Tupua'i, Iles Australes, Polynésie française*, 08/11.\
 * 2010,	*Tupua'i, Iles Australes, Polynésie française*, 01-10/10.\
 
-`En tant que collaborateur`  
+**En tant que collaborateur**\
 * 2016, *Ava Ranga Uka A Toroke Hau, Rapa Nui (Ile de Pâques), Chili* (avec A. Kuehlem, B. Vogt, Deutsches Archäologisches Institut), 03/16.\
 * 2013,	*Temoe, Iles Gambier, Polynésie française* (avec G. Molle, ANU, and P. Murail), 10/13.\
 * 2009,	*Hane, Ua Huka, Iles Marquises, Polynésie française* (avec E. Conte, UPF, P. Murail, Bordeaux-1, G. Molle, UPF), 01/09.\
 
-`Projets associatifs`  
+**Projets associatifs**\
 * 2014-2016, *Fouilles archéologiques et restauration du marae Pererau, Piha'e'in, Mo'orea (Archipel de la Société, Polynésie française)*. En collaboration avec les associations culturelles Puna Reo et Te 'ihi papa no ta'ato'a, et la Direction de la Culture et du Patrimoine.\
 * 2011,	*Fouilles archéologiques et restauration du marae Ogio, Ana’a (Archipel des Tuamotu, Polynésie française)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.\
 * 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.\
 
 
 ## Services académiques
-`Peer reviews`  
+### Peer reviews
 Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
-`Supervision`  
+### Supervision
 *Université Paris I Panthéon-Sorbonne*\
 Marvin Marinosa-Hernandez, Master, co-directeur, 2023-2024\
 Karno Elliott, M.A., Master, 2022-2023\
-Karno Elliott, M.A., Master, 2021-2022
+Karno Elliott, M.A., Master, 2021-2022\
 
 *Institut Pasteur*\
-Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024
+Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024\
 
 *University of French Polynesia*\
-Moanatea Claret, Master, co-directeur, 2015-2016
+Moanatea Claret, Master, co-directeur, 2015-2016\
 
 *University de Bordeaux*\
-Anthony Constant, L3, Maitre de stage, 2021\
+Anthony Constant, L3, Maitre de stage, 2021
+
+### Enseignement/Formation
+Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France)*. Ressources en ligne accessibles : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
 
 
 ## Activités antérieures
-`Recherche`  
+**Recherche**\
 * 2019-2020, *Contrat post-doctoral (Wissenschaftler), Max-Planck-Institut für Menschheitsgeschichte, Department of Linguistic and Cultural Evolution, Jena (Allemagne)* (1/9/19-30/9/20).\
 * 2017-2019, *Contrat post-doctoral (Fellowship), Max-Planck-Institut für Menschheitsgeschichte, Jena (Allemagne)* (1/9/17-31/8/19).\
 * 2015, *Contrat post-doctoral, LabEx CORAIL, Polynésie française* (1/1/15 - 31/12/15).\
 * 2013, *Technicien, CIRAP/Université de la Polynésie française* (1/10/13 - 31/12/13).\
 * 2010-2012, *Doctorat, Université de la Polynésie française* (1/1/10 - 31/12/12).\
-`Enseignement`  
+
+**Enseignement**\
 * 2014-2017, *Chargé de cours/ATER, Archéologie, Histoire pré-Européenne et Anthropologie de l'Océanie (Licence et Master), Université de la Polynésie française* (1/9/14 - 31/8/17).\
 * 2014-2017,	*Encadrement et formation des étudiants à la fouille et restauration du marae Pererau (Mo'orea), Associations culturelles Te 'ihi papa no ta'ato'a et Puna reo Piha'e'ina*.\
 * 2013-2015, *Gestion du laboratoire du CIRAP et tutorat des étudiants en stage, Centre International pour la Recherche Archéologique en Polynésie (CIRAP), Université de la Polynésie française*.\
 
-`Autres activités professionnelles`  
+**Autres activités professionnelles**\
 * 2016, *Consultant en Archéologie et Ethno-histoire: Prospections archéologiques et analyse des traditions orales du district de Toahotu. Projet INTEGRE (Communauté du Pacifique/Union Européen)* (1/4/16-10/7/16).\
 * 2014,	*Consultant en archéologie: Etude du matériel lithique provenant du marae Ta’ata, Paea. Service de la Culture et du Patrimoine, Tahiti* (1/8/14 - 31/8/14).\
 

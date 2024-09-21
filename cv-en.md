@@ -149,6 +149,10 @@ __BA__, Université de Nantes
 
 ### Institutional reports
 
+@. **Hermann A.**,  Ponchelet J., Dotte-Sarout E. 2024. Recherches archéologiques sur Emae, Iles Shepherds, Vanuatu central. Travaux à Finongi titi et Tongamea. Programme quadriennal Panua ’ata (2023-2026). Ministère de l’Europe et des Affaires étrangères. Rapport à la commission consultative des recherches archéologiques françaises à l’étranger, Paris.
+
+@. **Hermann A.** 2023. Ethnogénèse, interactions et adaptation dans la région centrale du Vanuatu: Panua ’ata, le début d’un nouveau programme à Emae. Ministère de l’Europe et des Affaires étrangères. Rapport à la commission consultative des recherches archéologiques françaises à l’étranger, Paris.
+
 @. **Hermann A.** 2017. Fouilles archéologiques et plan de restauration du marae Pererau (commune de Piha'e'ina, Mo'orea). Service de la Culture et du Patrimoine, Tahiti.
 
 @. Molle G., **Hermann A.** 2017. An Atoll in History: Archaeological Research on Teti'aroa (Society Islands). Final Report Phase 1. Teti'aroa Society, Seeley Foundation. Service de la Culture et du Patrimoine, Tahiti.
@@ -281,8 +285,8 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 Responsable scientifique (5kE).
 
 `2023-2026`\
-*Mission archéologique Panua ‘ata au Vanuatu*\
-Principal investigator in collaboration with Vanuatu Kaljoral Senta and S. Bedford (Australian National University). Mission archéologique franco-vanuataise funded by the French Ministry of Foreign Affairs (~10kE yearly).
+*Panua ‘ata Archaeological project in Vanuatu*\
+Principal investigator in collaboration with Vanuatu Kaljoral Senta and S. Bedford (Australian National University). Franco-Vanuatu Archaeological mission, funded by the French Ministry of Foreign Affairs (~10kE yearly).
 
 `2022-2023`\
 *Un nouveau référentiel collaboratif pour l’étude des systèmes techniques de production lithique : Approches expérimentale, archéologique et ethnoarchéologique de la transformation des roches volcaniques*\
@@ -295,6 +299,7 @@ Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-p
 
 ## Archaeological fieldwork in the Pacific Islands
 `Research as principal investigator`  
+* 2024, *Emae, Shepherd Islands, Vanuatu* (with S. Ponchelet J., Paris-1, Dotte-Sarout E, UWA, I. Phillip, E. Willie, VKS), 08/24.\
 * 2023, *Emae, Shepherd Islands, Vanuatu* (with S. Bedford, ANU, I. Phillip, E. Willie, S. Seule, VKS), 08/23.\
 * 2022,	*Teti'aroa, Society Islands, French Polynesia* (with G. Molle, ANU), 08-10/22.\
 * 2019,	*Teti'aroa, Society Islands, French Polynesia* (with G. Molle, ANU), 11/19.\
@@ -322,11 +327,10 @@ Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-p
 
 
 ## Academic service
-`Peer reviews`  
+### Peer reviews
 Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
-`Academic advising`  
-
+### Academic advising
 *University Paris I Panthéon-Sorbonne*\
 Marvin Marinosa-Hernandez, M.A., co-supervisor, 2023-2024\
 Karno Elliott, M.A., co-supervisor, 2022-2023\
@@ -341,21 +345,24 @@ Moanatea Claret, M.A., co-advisor, 2015-2016
 *University de Bordeaux*\
 Anthony Constant, Undergraduate, internship, 2021
 
+### Enseignement/Formation
+April - May 2023 *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues” organised in colaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France)*. Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
+
 
 ## Previous positions
-`Research positions`\
+**Research positions**\
 * *Permanent researcher*, Centre National de la Recherche Scientifique (CNRS) - UMR 8068, since 2020.\
 * *Post-doctoral fellow*, Max Planck Institute for the Science of Human History, Jena (Germany). Department of Linguistic and Cultural Evolution, 2017-2020.\
 * *Post-doctoral fellow*, LabEx CORAIL, French Polynesia, 2015.\
 * *Research assistant*, University of French Polynesia, 2013.\
 * *PhD student*, University of French Polynesia, 2010-2013.\
 
-`Teaching positions`\
+**Teaching positions**\
 * *Lecturer in Archaeology and anthropology of Oceania (Undergraduates and Masters)*, University of French Polynesia, 2014-2017.\
 * *Instructor for graduated students in excavations/restoration on Mo'orea island Cultural associations Te 'ihi papa no ta'ato'a and Puna reo Piha'e'ina*, University of French Polynesia, 2014-2017.\
 * *Instructor, International Center for Research and Archaeology in Polynesia (CIRAP)*, University of French Polynesia, 2013-2015.\
 
-`Other appointments`  
+**Other appointments**\
 * *Consultant in Archaeology and Ethno-history*, INTEGRE Project: Archaeological survey in the Aoma valley and documentation of oral traditions in the Toahotu disctrict (Tahiti) 2016.  
 * *Consultant in Archaeology*, French Polynesian Cultural Heritage Department, Service de la Culture et du Patrimoine (Tahiti), 2014.  
 

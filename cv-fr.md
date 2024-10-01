@@ -194,6 +194,10 @@ __DEUG-Licence__, Université de Nantes
 
 ### C-COM Communications orales sans actes dans un congrès international ou national
 
+1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists*, 30/08/2024, Rome, Italy.
+
+1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists*, 08/03/2024.
+
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
 1. Collaborative repository for the study of volcanic rock transformation (with S. Sánchez-Dehesa Galán). *“I want to break free”: Current research on Percussive Implements during the Lower and Middle Palaeolithic*, 27/06/2023, Tel Aviv University, Israel.

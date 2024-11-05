@@ -184,7 +184,7 @@ __BA__, Université de Nantes
 
 1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists*, 30/08/2024, Rome, Italy.
 
-1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists*, 08/03/2024.
+1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists (AWAP)*, 08/03/2024.
 
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
@@ -228,14 +228,19 @@ __BA__, Université de Nantes
 
 ### Invited lectures
 
+`2024`  
+* Archéologie et anthropologie historique des sociétés insulaires du Pacifique: à l'ouest rien de nouveau? *Séminaire général de Préhistoire, Master Anthropologie Université Paris Nanterre*, 08/10/24.\
+* Integrated approaches to the past of Pacific Islands societies from deep history to historical anthropology. *Extra Seminar at Interdisciplinary Center for Archaeology and the Evolution of Human Behaviour (ICArEHB), Faro, Portugal*, 22/02/24.\
+* L'étude des systèmes techniques, une urgence en anthropologie et archéologie de l’Océanie. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 05/02/24.\
+* Les signatures géochimiques et isotopiques des outils en pierre comme marqueurs des interactions entre les sociétés insulaires d'Asie du Sud-est et du Pacifique au cours des 3 derniers millénaires. *Séminaire Recherche de l'UMR 8148 GEOPS, Géosciences Paris-Saclay*, 18/01/24.\
+
 `2023`  
 * Beyond “Marlon Brando’s atoll”: Tracing the archaeological history of Teti'aroa, Society Islands (French Polynesia): a fieldwork story (presented by E. Dotte, in collaboration with G. Molle, V.A. Rurua, and E. Scorsini). *Archaeology Seminar Series University of Western Australia*, 30/08/23.\
-* Three millenia of inter-island mobility among Pacific Island societies: 
-archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.\
+* Three millennia of inter-island mobility among Pacific Island societies: archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.\
 * R pour les aRchéologues (co-organised with A. Vignoles). *Workshop, UMR 8068*, MSH Mondes, Nanterre, April-May 2023.\
 * L’usage du code source pour la recherche : Avantages, Inconvénient, Nécessité. *Réunion d'unité, UMR 8068*, MSH Mondes, Nanterre, 17/02/23.\
 * La production des lames d’herminette comme proxy de l’évolution des chefferies dans les îles Marquises (Polynésie française). *Journée d’étude « Les pratiques techniques », UMR 8068*, MSH Mondes, Nanterre, 09/02/23.\
-* Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/2023.\
+* Industries lithiques et évolution des chefferies dans les îles Marquises (Henua 'Enana / Fenua Enana, Polynésie française). *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 06/02/23.\
 
 `2022`  
 * Teti'aroa, Archéologie d’un atoll polynésien (with G. Molle and V.A. Rurua). *Arue city hall, Tahiti, Polynésie française*, 06/12/22.\
@@ -269,6 +274,7 @@ archaeological evidence, ethnographic data, anthropological theory. *Moving Arou
 * Île de Pâques: des analyses génétiques écartent le scénario d’un «suicide écologique». *Le Figaro Sciences*, entretien par Elisa Doré, 11/09/24. https://tinyurl.com/yen6wbu4 \
 
 `2023`\
+* Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie. *Remise des prix science ouverte des données de la recherche*, Ministère de l’Enseignement supérieur et de la Recherche, Paris, 29/11/23.
 * Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp \
 * Stone chemistry records Pacific migration. *Eos 104*, entretien par Hasler C., 06/07/2023. https://eos.org/articles/stone-chemistry-records-pacific-migration \
 * Polynesian tool finds support the oral histories behind Moana. Émission de radio. *Quirks and Quarks, CBC Listen*, animé par Bob McDonald, 20/05/23. https://www.cbc.ca/listen/live-radio/1-51/clip/15986007 \
@@ -349,9 +355,10 @@ Moanatea Claret, M.A., co-advisor, 2015-2016
 *University de Bordeaux*\
 Anthony Constant, Undergraduate, internship, 2021
 
-### Enseignement/Formation
-April - May 2023 *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues” organised in colaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France)*. Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
-
+### Teaching/Training
+* April - May 2023 *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues” organised in colaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France)*. Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
+* 2015-2017 *ATER (Teaching and Research Fellow)*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.
+* 2014-2015 *Temporary lecturer*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.
 
 ## Previous positions
 **Research positions**\

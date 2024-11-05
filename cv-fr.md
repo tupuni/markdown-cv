@@ -233,10 +233,17 @@ __DEUG-Licence__, Université de Nantes
 
 ### C-SEM Communications dans un séminaire
 
+1. Archéologie et anthropologie historique des sociétés insulaires du Pacifique: à l'ouest rien de nouveau? *Séminaire général de Préhistoire, Master Anthropologie Université Paris Nanterre*, 08/10/24.\
+
+1. Integrated approaches to the past of Pacific Islands societies from deep history to historical anthropology. *Extra Seminar at Interdisciplinary Center for Archaeology and the Evolution of Human Behaviour (ICArEHB), Faro, Portugal*, 22/02/24.\
+
+1. L'étude des systèmes techniques, une urgence en anthropologie et archéologie de l’Océanie. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 05/02/24.\
+
+1. Les signatures géochimiques et isotopiques des outils en pierre comme marqueurs des interactions entre les sociétés insulaires d'Asie du Sud-est et du Pacifique au cours des 3 derniers millénaires. *Séminaire Recherche de l'UMR 8148 GEOPS, Géosciences Paris-Saclay*, 18/01/24.\
+
 1. Beyond “Marlon Brando’s atoll”: Tracing the archaeological history of Teti'aroa, Society Islands (French Polynesia): a fieldwork story (presenté par E. Dotte, en collaboration avec G. Molle, V.A. Rurua, et E. Scorsini). *Archaeology Seminar Series University of Western Australia*, 30/08/23.
 
-1. Three millenia of inter-island mobility among Pacific Island societies: 
-archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.
+1. Three millennia of inter-island mobility among Pacific Island societies: archaeological evidence, ethnographic data, anthropological theory. *Moving Around: Tracing mobility in the archaeological record*, École Universitaire de Recherche Archaeological Challenges, Paris-1/University of Bologna, 10/05/23.
 
 1. Atelier "R pour les aRchéologues" (co-organisé avec A. Vignoles). *Atelier, UMR 8068*, MSH Mondes, Nanterre, Avril-Mai 23.
 
@@ -289,6 +296,8 @@ comm a ommettre
 1. 2024 Du volcan à l'outil, à la découverte des outils en pierre (ateliers avec classes primaires). *Fête de la Science*, organisée par le ministère de l'Enseignement supérieur et de la Recherche, 11/10/24. https://www.mshmondes.cnrs.fr/evenement/fete-de-la-science-2024\
 
 1. 2024 Île de Pâques: des analyses génétiques écartent le scénario d’un «suicide écologique». *Le Figaro Sciences*, entretien par Elisa Doré, 11/09/24. https://tinyurl.com/yen6wbu4\
+
+1. 2023. Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie. *Remise des prix science ouverte des données de la recherche*, Ministère de l’Enseignement supérieur et de la Recherche, Paris, 29/11/23.
 
 1. 2023 Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp\
 
@@ -370,14 +379,16 @@ Karno Elliott, M.A., Master, 2021-2022\
 *Institut Pasteur*\
 Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024\
 
-*University of French Polynesia*\
+*Université de la Polynésie Française*\
 Moanatea Claret, Master, co-directeur, 2015-2016\
 
-*University de Bordeaux*\
+*Université de Bordeaux-3*\
 Anthony Constant, L3, Maitre de stage, 2021
 
 ### Enseignement/Formation
-Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France)*. Ressources en ligne accessibles : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
+* Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France)*. Ressources en ligne accessibles : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
+* 2015-2017 *Attaché Temporaire d'Enseignement et de Recherche (ATER)*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.
+* 2014-2015 *Enseignant vacataire*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.
 
 
 ## Activités antérieures

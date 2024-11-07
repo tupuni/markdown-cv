@@ -349,6 +349,9 @@ Karno Elliott, M.A., co-supervisor, 2021-2022
 *Institut Pasteur*\
 Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
 
+*Muséum national d’Histoire naturelle*\
+Pamela Gutiérrez, M.A., co-supervisor, 2018-2019\
+
 *University of French Polynesia*\
 Moanatea Claret, M.A., co-advisor, 2015-2016
 

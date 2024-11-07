@@ -372,15 +372,18 @@ Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chil
 
 ### Supervision
 *Université Paris I Panthéon-Sorbonne*\
-Marvin Marinosa-Hernandez, Master, co-directeur, 2023-2024\
-Karno Elliott, M.A., Master, 2022-2023\
-Karno Elliott, M.A., Master, 2021-2022\
+Marvin Marinosa-Hernandez, Master2, co-directeur, 2023-2024\
+Karno Elliott, Master2, co-directeur, 2022-2023\
+Karno Elliott, Master1, co-directeur, 2021-2022\
 
 *Institut Pasteur*\
 Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024\
 
+*Muséum national d’Histoire naturelle*\
+Pamela Gutiérrez, Master2, co-directeur, 2018-2019\
+
 *Université de la Polynésie Française*\
-Moanatea Claret, Master, co-directeur, 2015-2016\
+Moanatea Claret, Master1, co-directeur, 2015-2016\
 
 *Université de Bordeaux-3*\
 Anthony Constant, L3, Maitre de stage, 2021

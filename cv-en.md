@@ -95,6 +95,8 @@ __BA__, Université de Nantes
 
 ### Books and books chapters
 
+@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2024. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle.
+
 @. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
 
 @. **Hermann A.**, Valentin F., Sand C., Nolet E. (Eds.) 2020. **Networks and Monumentality in the Pacific**, Proceedings of the XVIII UISPP World Congress: Archaeopress Archaeology, Oxford.
@@ -385,5 +387,5 @@ Anthony Constant, Undergraduate, internship, 2021
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: Oct 2024}
+\fancyfoot[LO,LE]{Last update: Dec 2024}
 

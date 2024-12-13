@@ -108,6 +108,8 @@ __DEUG-Licence__, Université de Nantes
 
 #### Chapitre d'ouvrage (CHA)
 
+@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2024. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle.
+
 @. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
 
 @. **Hermann A.** 2021. **Archéométrie des systèmes d’échange Polynésiens : un état des lieux**, in : Leal-Tamari’i A. (Ed.) *Bilan de la Recherche Archéologique en Polynésie Française 2005-2015, Dossier d’Archéologie Polynésienne 6*, Direction de la Culture et du Patrimoine, Tahiti : 19-24.
@@ -416,5 +418,5 @@ Anthony Constant, L3, Maitre de stage, 2021
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Oct 2024}
+\fancyfoot[LO,LE]{Dernière mise à jour: Dec 2024}
 

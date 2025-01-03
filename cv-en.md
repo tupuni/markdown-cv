@@ -184,9 +184,9 @@ __BA__, Université de Nantes
 
 ### Conference presentations
 
-1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists*, 30/08/2024, Rome, Italy.
+1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists (EAA)*, 30/08/2024, Rome, Italy.
 
-1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists (AWAP)*, 08/03/2024.
+1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists (VCWAP)*, 08/03/2024.
 
 1. Artefact geochemistry demonstrates long-distance voyaging in the last thousand years from Polynesia to western Pacific islands (with P. Guttiérrez, C. Chauvel). *Goldschmidt 2023*, 07/2023, Lyon, France.
 
@@ -231,6 +231,7 @@ __BA__, Université de Nantes
 ### Invited lectures
 
 `2024`  
+* Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie : les apports de la science ouverte *Séminaire Science Ouverte: données de la recherche, Université de Polynésie française*, 20/11/24.\
 * Archéologie et anthropologie historique des sociétés insulaires du Pacifique: à l'ouest rien de nouveau? *Séminaire général de Préhistoire, Master Anthropologie Université Paris Nanterre*, 08/10/24.\
 * Integrated approaches to the past of Pacific Islands societies from deep history to historical anthropology. *Extra Seminar at Interdisciplinary Center for Archaeology and the Evolution of Human Behaviour (ICArEHB), Faro, Portugal*, 22/02/24.\
 * L'étude des systèmes techniques, une urgence en anthropologie et archéologie de l’Océanie. *Séminaire Cultures et Sociétés anciennes du Pacifique sud, Université Paris-1 Panthéon-Sorbonne*, 05/02/24.\

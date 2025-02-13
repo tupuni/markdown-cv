@@ -196,6 +196,8 @@ __DEUG-Licence__, Université de Nantes
 
 ### C-COM Communications orales sans actes dans un congrès international ou national
 
+1. Chroniques insulaires dans le Pacifique Sud: 2000 ans de dynamiques familiales, biologiques et culturelles (présentation par E. Herrscher, UMR 7269 LAMPEA). *Colloque Annuel de la Société d’Anthropologie de Paris (EAA)*, 30/01/2025, Paris, France.
+
 1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists (EAA)*, 30/08/2024, Rome, Italy.
 
 1. Collaborative repository for the study of volcanic rock transformation: Experimental, archaeological, and ethnoarchaeological approaches to the transformation of volcanic rocks (with S. Sánchez-Dehesa Galán). *4th Virtual Conference for Women Archaeologists and Paleontologists (VCWAP)*, 08/03/2024.

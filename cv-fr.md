@@ -108,7 +108,7 @@ __DEUG-Licence__, Université de Nantes
 
 #### Chapitre d'ouvrage (CHA)
 
-@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2024. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle.
+@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2025. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle : 53-63.
 
 @. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
 
@@ -239,6 +239,10 @@ __DEUG-Licence__, Université de Nantes
 
 ### C-SEM Communications dans un séminaire
 
+1. Les territoires insulaires du Pacifique comme reflets des mobilités préhistoriques et comme objets politiques modernes *Séminaire « Préhistoire et territoires », Master Anthropologie Université Paris Nanterre*, 25/3/25.
+
+1. Habiter l'Océanie: conception, reproduction et adaptation des implantations humaines dans les territoires insulaires du Pacifique *Séminaire « Habiter le monde : occuper, transformer, préserver », Master Anthropologie Université Paris Nanterre*, 6/3/25.
+
 1. Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie : les apports de la science ouverte *Séminaire Science Ouverte: données de la recherche, Université de Polynésie française*, 20/11/24.
 
 1. Archéologie et anthropologie historique des sociétés insulaires du Pacifique: à l'ouest rien de nouveau? *Séminaire général de Préhistoire, Master Anthropologie Université Paris Nanterre*, 08/10/24.
@@ -305,7 +309,7 @@ comm a ommettre
 
 1. 2024 Île de Pâques: des analyses génétiques écartent le scénario d’un «suicide écologique». *Le Figaro Sciences*, entretien par Elisa Doré, 11/09/24. https://tinyurl.com/yen6wbu4\
 
-1. 2023. Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie. *Remise des prix science ouverte des données de la recherche*, Ministère de l’Enseignement supérieur et de la Recherche, Paris, 29/11/23.
+1. 2023 Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie. *Remise des prix science ouverte des données de la recherche*, Ministère de l’Enseignement supérieur et de la Recherche, Paris, 29/11/23.
 
 1. 2023 Les argonautes de la Polynésie. Émission de radio. *Carbone 14, France Culture*, animé par Vincent Charpentier, 02/09/23. https://tinyurl.com/5x8c45vp\
 
@@ -375,30 +379,32 @@ Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-res
 
 
 ## Services académiques
-### Peer reviews
+**Peer reviews**\
 Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
-### Supervision
+**Supervision**\
 *Université Paris I Panthéon-Sorbonne*\
 Marvin Marinosa-Hernandez, Master2, co-directeur, 2023-2024\
 Karno Elliott, Master2, co-directeur, 2022-2023\
-Karno Elliott, Master1, co-directeur, 2021-2022\
+Karno Elliott, Master1, co-directeur, 2021-2022
 
 *Institut Pasteur*\
-Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024\
+Gaston Rijo De León, Doctorat, Thesis Advisory Committee member, 2022-2024
 
 *Muséum national d’Histoire naturelle*\
-Pamela Gutiérrez, Master2, co-directeur, 2018-2019\
+Pamela Gutiérrez, Master2, co-directeur, 2018-2019
 
 *Université de la Polynésie Française*\
-Moanatea Claret, Master1, co-directeur, 2015-2016\
+Moanatea Claret, Master1, co-directeur, 2015-2016
 
 *Université de Bordeaux-3*\
 Anthony Constant, L3, Maitre de stage, 2021
 
-### Enseignement/Formation
-* Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France)*. Ressources en ligne accessibles : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
-* 2015-2017 *Attaché Temporaire d'Enseignement et de Recherche (ATER)*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.
+**Enseignement/Formation**\
+* Janvier - Mai 2025 *Chargé d’enseignement vacataire*, Séminaire Master 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne.\
+* Janvier - Mai 2025 *Chargé d’enseignement vacataire*, L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne.\
+* Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France), Ressources en ligne accessibles: https://tupuni.github.io/R-pour-les-aRcheologues.github.io/*. \
+* 2015-2017 *Attaché Temporaire d'Enseignement et de Recherche (ATER)*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.\
 * 2014-2015 *Enseignant vacataire*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.
 
 
@@ -424,5 +430,5 @@ Anthony Constant, L3, Maitre de stage, 2021
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Dec 2024}
+\fancyfoot[LO,LE]{Dernière mise à jour: Mars 2025}
 

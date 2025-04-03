@@ -95,7 +95,7 @@ __BA__, Université de Nantes
 
 ### Books and books chapters
 
-@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2024. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle.
+@. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2025. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle : 53-63.
 
 @. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.
 
@@ -234,6 +234,10 @@ __BA__, Université de Nantes
 
 ### Invited lectures
 
+`2025`  
+* Les territoires insulaires du Pacifique comme reflets des mobilités préhistoriques et comme objets politiques modernes *Séminaire « Préhistoire et territoires », Master Anthropologie Université Paris Nanterre*, 25/3/25.\
+* Habiter l'Océanie: conception, reproduction et adaptation des implantations humaines dans les territoires insulaires du Pacifique *Séminaire « Habiter le monde : occuper, transformer, préserver », Master Anthropologie Université Paris Nanterre*, 6/3/25.\
+
 `2024`  
 * Reconstituer les voyages interinsulaires passés dans le Pacifique grâce à la géochimie : les apports de la science ouverte *Séminaire Science Ouverte: données de la recherche, Université de Polynésie française*, 20/11/24.\
 * Archéologie et anthropologie historique des sociétés insulaires du Pacifique: à l'ouest rien de nouveau? *Séminaire général de Préhistoire, Master Anthropologie Université Paris Nanterre*, 08/10/24.\
@@ -357,7 +361,7 @@ Karno Elliott, M.A., co-supervisor, 2021-2022
 Gaston Rijo De León, Ph.D., Thesis Advisory Committee member, 2022-2024
 
 *Muséum national d’Histoire naturelle*\
-Pamela Gutiérrez, M.A., co-supervisor, 2018-2019\
+Pamela Gutiérrez, M.A., co-supervisor, 2018-2019
 
 *University of French Polynesia*\
 Moanatea Claret, M.A., co-advisor, 2015-2016
@@ -366,8 +370,10 @@ Moanatea Claret, M.A., co-advisor, 2015-2016
 Anthony Constant, Undergraduate, internship, 2021
 
 ### Teaching/Training
+* January - May 2025 *Lecturer*, Masters Seminar 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne\
+* January - May 2025 *Lecturer*, Undergraduates L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne\
 * April - May 2023 *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues” organised in colaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France)*. Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
-* 2015-2017 *ATER (Teaching and Research Fellow)*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.
+* 2015-2017 *ATER (Teaching and Research Fellow)*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.\
 * 2014-2015 *Temporary lecturer*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.
 
 ## Previous positions
@@ -392,5 +398,5 @@ Anthony Constant, Undergraduate, internship, 2021
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: Dec 2024}
+\fancyfoot[LO,LE]{Last update: Mar 2025}
 

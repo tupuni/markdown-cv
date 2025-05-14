@@ -108,6 +108,8 @@ __DEUG-Licence__, Université de Nantes
 
 #### Chapitre d'ouvrage (CHA)
 
+@. Sand C., Vidal E., ... Domergue S., **Hermann A.**, Lagarde L., Ouetcho A.-J., Utia J.-L., Wadrawane J.-M. 2025. **Les îles : biodiversité et histoires humaines entremêlées**, in : Payri C.E. (Ed.) *Nouvelle-Calédonie, un océan de savoirs, une odyssée scientifique dans le parc naturel de la mer de Corail*. Presses universitaires de la Nouvelle‑Calédonie (Punc), Nouméa, Nouvelle‑Calédonie, IRD Éditions : 115-167.
+
 @. Valentin F., Zinger W., **Hermann A.**, Bedford S. 2025. **Femmes du Passé au Vanuatu : Empreintes de Pouvoir et d'Influence**, in : Patole-Edoumba E. (Ed.) *Vanuatu : pouvoirs de femmes*, Muséum d’Histoire naturelle de La Rochelle : 53-63.
 
 @. **Hermann A.** 2024. **Te toki, l’herminette polynésienne : un fait social total**, in : Cauwe N. (Ed.) *Trésors de Polynésie*, Guides Archéologiques du Malgré-Tout, Éditions du CEDARC : 43-47.

@@ -27,7 +27,7 @@ Chargé de Recherche\
 Centre National de la Recherche Scientifique\
 [UMR 8068 Temps, MSH Mondes, F-92023 Nanterre](https://umrtemps.cnrs.fr/membre/hermann-aymeric/).  
 
-Chercheur associé au\
+Chercheur associé\
 Centre International de Recherche Archéologique en Polynésie\
 Université de la Polynésie française\
 Campus d'Outumaoro, F-98702 Puna'auia.\
@@ -379,13 +379,13 @@ Archéologie de Teti’aroa, Iles de la Société, Polynésie française. Co-res
 * 2011,	*Fouilles archéologiques et restauration du marae Ogio, Ana’a (Archipel des Tuamotu, Polynésie française)*, en collaboration avec les associations culturelles Te 'ihi papa no ta'ato'a et Putahi Haga no Gana'a.\
 * 2007,	*Fouilles archéologiques et restauration des sites monumentaux de Ua Pou (Iles Marquises, Polynésie française)*, en collaboration avec l'Institut de Recherche pour le Développement (IRD) et l'association culturelle Motu haka.\
 
-
 ## Services académiques
 **Peer reviews**\
-Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
+Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)\
 
 **Supervision**\
 *Université Paris I Panthéon-Sorbonne*\
+Mona Jubert, Master1, co-directeur, 2025-2026\
 Marvin Marinosa-Hernandez, Master2, co-directeur, 2023-2024\
 Karno Elliott, Master2, co-directeur, 2022-2023\
 Karno Elliott, Master1, co-directeur, 2021-2022
@@ -400,14 +400,17 @@ Pamela Gutiérrez, Master2, co-directeur, 2018-2019
 Moanatea Claret, Master1, co-directeur, 2015-2016
 
 *Université de Bordeaux-3*\
-Anthony Constant, L3, Maitre de stage, 2021
+Anthony Constant, L3, Maitre de stage, 2021\
 
 **Enseignement/Formation**\
-* Janvier - Mai 2025 *Chargé d’enseignement vacataire*, Séminaire Master 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne.\
-* Janvier - Mai 2025 *Chargé d’enseignement vacataire*, L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne.\
-* Avril - Mai 2023 *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues” organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France), Ressources en ligne accessibles: https://tupuni.github.io/R-pour-les-aRcheologues.github.io/*. \
-* 2015-2017 *Attaché Temporaire d'Enseignement et de Recherche (ATER)*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.\
-* 2014-2015 *Enseignant vacataire*, Archéologie et Anthropologie de l'Océanie (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, Université de la Polynésie Française.
+* *2026* *Enseignant vacataire*, CPES DAC (L3) 'Histoire de la très longue durée, approche interdisciplinaire', 14h, ENS Ulm - Université Paris Sciences et Lettres.\
+* *2026* *Enseignant vacataire*, Séminaire de Recherche 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne.\
+* *2026* *Enseignant vacataire*, L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne.\
+* *2025* *Enseignant vacataire*, Séminaire de Recherche 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne.\
+* *2025* *Enseignant vacataire*, L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne.\
+* *2023* *Formation interne à l'UMR 8068 du CNRS: Workshop “R pour les aRchéologues”* organisé en collaboration avec Anaïs Vignoles à la MSH Mondes, Nanterre (France), Ressources en ligne accessibles: https://tupuni.github.io/R-pour-les-aRcheologues.github.io/. \
+* *2015-2017* *ATER*, Archéologie et Anthropologie de l'Océanie, 192h, Université de la Polynésie Française.\
+* *2014-2015* *Enseignant vacataire*, Archéologie et Anthropologie de l'Océanie, 192h, Université de la Polynésie Française.\
 
 
 ## Activités antérieures
@@ -432,5 +435,5 @@ Anthony Constant, L3, Maitre de stage, 2021
 *français* (langue maternelle), *anglais* (avancé), *Spanish* (avancé), *Bislama - Vanuatu pidgin* (avancé), *German* (intermédiaire), *Reo Tahiti* (débutant).
 
 
-\fancyfoot[LO,LE]{Dernière mise à jour: Mars 2025}
+\fancyfoot[LO,LE]{Dernière mise à jour: Nov 2025}
 

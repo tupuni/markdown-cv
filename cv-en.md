@@ -350,11 +350,12 @@ Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-p
 
 
 ## Academic service
-### Peer reviews
+**Peer reviews**\
 Archaeology in Oceania (3), Asian Perspectives (1), Boletín de la Sociedad Chilena de Arqueología (1), Journal of Anthropological Archaeology (1), Journal of Pacific Archaeology (2), Journal of Polynesian Archaeology and Research (1), Journal of the Polynesian Society - Waka Kuaka (2), PCI Archaeology (1), Plos One (1)
 
-### Academic advising
+**Academic advising**\
 *University Paris I Panthéon-Sorbonne*\
+Mona Jubert, M.A., co-supervisor, 2025-2026\
 Marvin Marinosa-Hernandez, M.A., co-supervisor, 2023-2024\
 Karno Elliott, M.A., co-supervisor, 2022-2023\
 Karno Elliott, M.A., co-supervisor, 2021-2022
@@ -369,14 +370,17 @@ Pamela Gutiérrez, M.A., co-supervisor, 2018-2019
 Moanatea Claret, M.A., co-advisor, 2015-2016
 
 *University de Bordeaux*\
-Anthony Constant, Undergraduate, internship, 2021
+Anthony Constant, Undergraduate, internship, 2021\
 
-### Teaching/Training
-* January - May 2025 *Lecturer*, Masters Seminar 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne\
-* January - May 2025 *Lecturer*, Undergraduates L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne\
-* April - May 2023 *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues” organised in colaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France)*. Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
-* 2015-2017 *ATER (Teaching and Research Fellow)*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.\
-* 2014-2015 *Temporary lecturer*, Classes to Undergrad and Masters, Archaeology and Anthropology of Oceania (HGEO-UE-2.5.1, LLCR-UE-3.6, LLCR-UE-4.6, LCSO-M1-UE-7.1), 192h, University of French Polynesia.
+**Teaching/Training**\
+* *2026* *Lecturer*, Undergraduates CPES DAC (L3) 'Histoire de la très longue durée, approche interdisciplinaire', 14h, ENS Ulm - Université Paris Sciences et Lettres.\
+* *2026* *Lecturer*, Research Seminar 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne.\
+* *2026* *Lecturer*, Undergraduates L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne.\
+* *2025* *Lecturer*, Research Seminar 'Cultures et sociétés anciennes du Pacifique Sud', 24h, Université Paris-1 Panthéon-Sorbonne\
+* *2025* *Lecturer*, Undergraduates L3C301-L3C302-L3C303 'Archéologie de l'Océanie', 18h, Université Paris-1 Panthéon-Sorbonne\
+* *2023* *Workshop and training on R applications in archaeology to CNRS lab UMR 8068: Workshop “R pour les aRchéologues”* organised in collaboration with Anaïs Vignoles, MSH Mondes, Nanterre (France). Online resources : https://tupuni.github.io/R-pour-les-aRcheologues.github.io/ \
+* *2015-2017* *ATER (Lecturer/Research fellow)*, Undergraduate to Master, Archaeology and Anthropology of Oceania, 192h, University of French Polynesia.\
+* *2014-2015* *Lecturer*, Undergraduate to Master, Archaeology and Anthropology of Oceania, 192h, University of French Polynesia.
 
 ## Previous positions
 **Research positions**\
@@ -400,5 +404,5 @@ Anthony Constant, Undergraduate, internship, 2021
 *French* (native), *English* (fluent), *Spanish* (Proficient), *Bislama - Vanuatu pidgin* (Proficient), *German* (Intermediate), *Tahitian* (Beginner).
 
 
-\fancyfoot[LO,LE]{Last update: Mar 2025}
+\fancyfoot[LO,LE]{Last update: Nov 2025}
 

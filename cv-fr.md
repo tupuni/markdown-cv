@@ -220,6 +220,8 @@ __DEUG-Licence__, Université de Nantes
 
 1. Pacific Way et patrimoine archéologique: Marae et démarches identitaires en Polynésie française (with G. Molle, V.A. Rurua, A. Léal-Tamari‘i, T. Marić, H. Cauchois). *Colloque international: Pacific Way, 50 ans après*, 20/10/2022, Université de la Polynésie française.
 
+1. Pots Versus Clocks: Integrating Archaeological Evidence With Bayesian Estimates of Divergence Times in Oceanic Languages (with B. King, M. Walworth, S.J. Greenhill, R.D. Gray). *Joint Conference on Language Evolution (JCoLE)*, 06/09/2022, Kanazawa, Japan.
+
 1. Démêler l’histoire complexe des Polynesian outliers (with M. Walworth, S. Greenhill, R. Gray). *12th Conference On Oceanic Linguistics*, 06/09/2022, Université de la Polynésie française.
 
 1. Disentangling the complex history of the Polynesian Outliers (with M. Walworth, S. Greenhill, R. Gray). *International Conference on Historical Linguistics*, 04/08/2022, Oxford, UK.

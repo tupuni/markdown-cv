@@ -188,7 +188,7 @@ __BA__, Université de Nantes
 
 1. Structurer ses données archéologiques pour mieux les analyser et les partager (with E. Caron-Laviolette, UMR 8068 TEMPs). *"Créer des liens" dans les Approches Computationnelles et Quantitatives en Archéologie (ACQuA), Colloque Inaugural du CAA-FR (Computer Applications and Quantitative Methods in Archaeology)*, 29-30/01/2025, Nanterre, France.
 
-1. Chroniques insulaires dans le Pacifique Sud: 2000 ans de dynamiques familiales, biologiques et culturelles (presentation by E. Herrscher, UMR 7269 LAMPEA). *Colloque Annuel de la Société d’Anthropologie de Paris (EAA)*, 30/01/2025, Paris, France.
+1. Chroniques insulaires dans le Pacifique Sud: 2000 ans de dynamiques familiales, biologiques et culturelles (présentation par E. Herrscher, UMR 7269 LAMPEA). *Colloque Annuel de la Société d’Anthropologie de Paris (EAA)*, 30/01/2025, Paris, France. https://doi.org/10.4000/133on
 
 1. Modern knappers and old stone tools: Insights and Limitations in Using Ethnographic and Experimental Collections to Understand the Production Process of Basalt Tools (with S. Sánchez-Dehesa Galán). *30th European Association of Archaeologists (EAA)*, 30/08/2024, Rome, Italy.
 
@@ -324,6 +324,7 @@ Archaeological Research on Teti’aroa (Society Islands, French Polynesia). Co-p
 
 ## Archaeological fieldwork in the Pacific Islands
 `Research as principal investigator`  
+* 2025, *Emae, Shepherd Islands, Vanuatu*, 07/25.\
 * 2024, *Emae, Shepherd Islands, Vanuatu* (with S. Ponchelet J., Paris-1, Dotte-Sarout E, UWA, I. Phillip, E. Willie, VKS), 08/24.\
 * 2023, *Emae, Shepherd Islands, Vanuatu* (with S. Bedford, ANU, I. Phillip, E. Willie, S. Seule, VKS), 08/23.\
 * 2022,	*Teti'aroa, Society Islands, French Polynesia* (with G. Molle, ANU), 08-10/22.\
